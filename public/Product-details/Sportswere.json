@@ -1,0 +1,691 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Blouson Femme Bering Lady Hoodiz 2 Noir Fuchsia",
+      "brand": "Bering",
+      "category": "Sweat",
+      "gender": "Femme",
+      "originalPrice": 169.99,
+      "salePrice": 119.99,
+      "description": "Bering vous présente son sweat moto, le Lady Hoodiz 2 en coloris noir et fuchsia. Derrière son look urbain idéal pour vos trajets à moto ou en scooter se cache un vêtement très complet. En effet, il vous permettra d'affronter la route en toute sécurité et avec un grand confort.",
+      "composition": "En coton confortable et doux, En Dupont Kevlar® résistant à l'abrasion et aux déchirures",
+      "lining": "Fixe et respirante en Mesh 3D",
+      "sizes": ["XS", "S"],
+      "colors": ["Fuchsia", "Noir"],
+      "material": "Textile",
+      "season": ["Été", "Mi-saison"],
+      "certification": "CE EN 1621-1: 2013 et EN 17092 classe A",
+      "comfortFeatures": [
+        "Fermeture centrale par zip",
+        "Poignets et taille en bord-côte",
+        "Serrage interne des poignets",
+        "Passant pour le raccord avec un pantalon"
+      ],
+      "protectionFeatures": [
+        "Protections aux coudes CE réglables ALPHA EN1621-1 Niveau 1",
+        "Protections aux épaules CE ALPHA EN1621-1 Niveau 1"
+      ],
+      "pockets": ["2 poches externes et une poche portefeuille"],
+      "advantages": ["Prédisposé à recevoir une dorsale ALPHA homologuée CE (en option)"],
+      "warranty": "2 ans",
+      "paymentOptions": ["3x", "4x", "10x", "12x"],
+      "paymentPlan": "40,01 € puis 2 x 39,99 € (sans frais)",
+      "customerService": "04 699 699 16 (prix d'un appel local)",
+      "serviceHours": "Lundi au vendredi 9h-18h30",
+      "returnPolicy": "Retour gratuit* 30 jours pour changer d'avis",
+      "storePrice": "Profitez du prix internet dans nos magasins",
+      "frequentlyBoughtTogether": [
+        {
+          "name": "Dorsale Tekride Evo Niveau 2 Jaune",
+          "price": 29.90,
+          "reviews": "(2 avis)"
+        },
+        {
+          "name": "Sac À Dos Tekride WP Line Rudy 35L Noir Gris Rouge",
+          "price": 59.90,
+          "reviews": "(1 avis)"
+        }
+      ],
+      "images": [
+        "/assets/Product-images/Sportswere/blouson-femme-bering-lady-hoodiz-2-noir-fuchsia-1.webp",
+        "/assets/Product-images/Sportswere/blouson-femme-bering-lady-hoodiz-2-noir-fuchsia-2.webp",
+        "/assets/Product-images/Sportswere/blouson-femme-bering-lady-hoodiz-2-noir-fuchsia-3.webp"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Polo Ixon Pramac P01 Replica 2022 Rouge Bleu Blanc",
+      "brand": "Ixon",
+      "category": "Polo",
+      "gender": "Homme",
+      "originalPrice": 60.00,
+      "salePrice": 33.60,
+      "description": "Ixon vous présente son polo, le Pramac P01 Replica 2022, en rouge, bleu et blanc. Ce polo est parfait pour montrer votre passion envers le Moto GP. Il est conçu en polyester, agréable à porter. Il aborde un style sport aux couleurs de la team Pramac.",
+      "technicalDescription": "Polo pour homme, 100% polyester, Logo sponsors : Motul, Michelin, Sun Energy",
+      "sizes": ["S", "L", "XL"],
+      "colors": ["Rouge", "Bleu", "Blanc"],
+      "material": "Textile",
+      "warranty": "2 ans",
+      "customerService": "04 699 699 16 (prix d'un appel local)",
+      "serviceHours": "Lundi au vendredi 9h-18h30",
+      "returnPolicy": "Retour gratuit* 30 jours pour changer d'avis",
+      "storePrice": "Profitez du prix internet dans nos magasins",
+      "images": [
+        "/assets/Product-images/Sportswere/blouson-femme-bering-lady-hoodiz-2-noir-fuchsia-1.webp",
+        "/assets/Product-images/Sportswere/blouson-femme-bering-lady-hoodiz-2-noir-fuchsia-2.webp",
+        "/assets/Product-images/Sportswere/blouson-femme-bering-lady-hoodiz-2-noir-fuchsia-3.webp"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Hoodie Zip Pritelli FQ20 Cyber Hell 20 Noir",
+      "brand": "Pritelli",
+      "category": "Sweat",
+      "gender": "Homme",
+      "originalPrice": 110.00,
+      "salePrice": 44.00,
+      "description": "Pritelli vous présente son hoodie à zip à l'effigie de Fabio Quartararo édition Cyber en coloris noir. Affichez votre admiration pour le pilote français qui a connu une réussite fulgurante ! Ce prodige, vainqueur du championnat d'Espagne en 2013 et 2014, collectionne les records. Depuis son passage en Moto3 et ses premières victoires en Moto2, il règne désormais sur la catégorie reine, le MotoGP, avec pour point d'orgue un titre de champion du monde en 2021 !",
+      "technicalDescription": "Sweat à capuche, Fermeture par zip central, Deux poches au niveau du ventre, 100% coton",
+      "sizes": ["S"],
+      "colors": ["Noir"],
+      "material": "Textile",
+      "rider": "Fabio Quartararo",
+      "customerService": "04 699 699 16 (prix d'un appel local)",
+      "serviceHours": "Lundi au vendredi 9h-18h30",
+      "returnPolicy": "Retour gratuit* 30 jours pour changer d'avis",
+      "storePrice": "Profitez du prix internet dans nos magasins",
+      "images": [
+        "/assets/Product-images/Sportswere/hoodie-zip-pritelli-fq20-cyber-hell-20-noir-1.webp",
+        "/assets/Product-images/Sportswere/hoodie-zip-pritelli-fq20-cyber-hell-20-noir-2.webp",
+        "/assets/Product-images/Sportswere/hoodie-zip-pritelli-fq20-cyber-hell-20-noir-3.webp"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Sweat Alpinestars MO.ST.EQ Hybrid Hooded Noir",
+      "brand": "Alpinestars",
+      "category": "Sweat",
+      "gender": "Homme",
+      "originalPrice": 339.95,
+      "salePrice": 282.12,
+      "description": "Alpinestars vous présente son sweat moto, le MO.ST.EQ Hybrid Hooded en coloris noir. Offrant un style inégalable, ce sweat moto est un allié de taille lors de vos trajets à deux-roues. Il assure une vraie protection, mais aussi un réel confort. Alors, craquez pour ce sweat moto très beau ! On adore son look moderne !",
+      "composition": "Conception en textile pour la mi-saison",
+      "lining": "Doublure en maille",
+      "sizes": ["S", "M", "L", "XL"],
+      "colors": ["Noir"],
+      "material": "Textile",
+      "certification": "CE - Catégorie II EN 17092-4:2020 Classe A",
+      "protection": "Protections aux coudes et aux épaules CE Niveau 1 Catégorie II EN 1621-1:2012 Nucleon Flex Pro",
+      "comfortFeatures": [
+        "Châssis extensible dans les 4 sens avec empiècements côtelés placés sur la poitrine, les côtés, les épaules et l'intérieur des coudes",
+        "Poitrine et dos avec des panneaux sans coutures légèrement rembourrés",
+        "Fermeture zippée principale avant légèrement inclinée qui offre un grand confort au niveau du cou",
+        "Sweat à capuche matelassé et bouton-pression de rétention dessus pour l'empêcher de s'envoler",
+        "Passants pour le pouce",
+        "Passants de fixation pour la ceinture de pantalon"
+      ],
+      "pockets": ["Compartiment interne étanche"],
+      "warranty": "2 ans",
+      "paymentOptions": ["3x", "4x", "10x", "12x"],
+      "paymentPlan": "110,64 € puis 2 x 110,63 € (sans frais)",
+      "estimatedDelivery": "Expédition prévue autour du Mardi 14 Octobre",
+      "customerService": "04 699 699 16 (prix d'un appel local)",
+      "serviceHours": "Lundi au vendredi 9h-18h30",
+      "returnPolicy": "Retour gratuit* 30 jours pour changer d'avis",
+      "storePrice": "Profitez du prix internet dans nos magasins",
+      "frequentlyBoughtTogether": [
+        {
+          "name": "Kit Entretien Cuir Lub'ster",
+          "price": 21.90,
+          "reviews": "(2 avis)"
+        },
+        {
+          "name": "Spray Imperméabilisant Textile Rev'It",
+          "price": 29.99
+        }
+      ],
+      "images": [
+        "/assets/Product-images/Sportswere/sweat-alpinestars-mo-st-eq-hybrid-hooded-noir-1.webp",
+        "/assets/Product-images/Sportswere/sweat-alpinestars-mo-st-eq-hybrid-hooded-noir-2.webp",
+        "/assets/Product-images/Sportswere/sweat-alpinestars-mo-st-eq-hybrid-hooded-noir-3.webp"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "T-Shirt Ixon TS1 Zarco 25 Noir",
+      "brand": "Ixon",
+      "category": "Tee-shirt",
+      "gender": "Homme",
+      "originalPrice": 35.00,
+      "salePrice": 35.00,
+      "description": "Ixon vous présente son tee-shirt, le TS1 Zarco 25 en coloris noir. Le T-shirt Ixon TS1 Zarco 25 combine style et confort, offrant une coupe moderne pour les passionnés de la marque et de moto.",
+      "sizes": ["S", "M", "L", "XL", "2XL"],
+      "colors": ["Noir"],
+      "material": "Textile",
+      "rider": "Johann Zarco",
+      "universe": "Urbain",
+      "warranty": "2 ans",
+      "customerService": "04 699 699 16 (prix d'un appel local)",
+      "serviceHours": "Lundi au vendredi 9h-18h30",
+      "returnPolicy": "Retour gratuit* 30 jours pour changer d'avis",
+      "storePrice": "Profitez du prix internet dans nos magasins",
+      "images": [
+        "/assets/Product-images/Sportswere/t-shirt-ixon-ts1-zarco-25-noir-1.webp",
+        "/assets/Product-images/Sportswere/t-shirt-ixon-ts1-zarco-25-noir-2.webp",
+        "/assets/Product-images/Sportswere/t-shirt-ixon-ts1-zarco-25-noir-3.webp"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "T-Shirt Femme Pritelli FQ20 Quartararo Édition Cyber Noir",
+      "brand": "Pritelli",
+      "category": "Tee-shirt",
+      "gender": "Femme",
+      "originalPrice": 35.00,
+      "salePrice": 18.20,
+      "description": "Pritelli nous présente son t-shirt pour femme, le FQ20 Quartararo Édition Cyber en coloris noir. Affichez votre passion pour le championnat MotoGP et surtout pour le pilote français Fabio Quartararo, champion du monde en 2021.",
+      "technicalDescription": "Divers imprimés, Col rond et manches courtes",
+      "sizes": ["XS", "S", "M", "L"],
+      "colors": ["Noir"],
+      "material": "Textile",
+      "rider": "Fabio Quartararo",
+      "customerService": "04 699 699 16 (prix d'un appel local)",
+      "serviceHours": "Lundi au vendredi 9h-18h30",
+      "returnPolicy": "Retour gratuit* 30 jours pour changer d'avis",
+      "storePrice": "Profitez du prix internet dans nos magasins",
+      "images": [
+        "/assets/Product-images/Sportswere/t-shirt-femme-pritelli-fq20-quartararo-edition-cyber-noir-1.webp",
+        "/assets/Product-images/Sportswere/t-shirt-femme-pritelli-fq20-quartararo-edition-cyber-noir-2.webp",
+        "/assets/Product-images/Sportswere/t-shirt-femme-pritelli-fq20-quartararo-edition-cyber-noir-3.webp"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "T-Shirt Pritelli Fabio Quartararo Monster Energy Noir",
+      "brand": "Pritelli",
+      "category": "Tee-shirt",
+      "gender": "Homme",
+      "originalPrice": 45.00,
+      "salePrice": 27.00,
+      "description": "Pritelli nous présente son t-shirt pour homme, le Fabio Quartararo Monster Energy en coloris noir. Affichez votre passion pour le championnat MotoGP et surtout pour le pilote français Fabio Quartararo, champion du monde en 2021.",
+      "technicalDescription": "100% coton, Divers imprimés, Col rond et manches courtes",
+      "sizes": ["S", "M", "XL", "2XL"],
+      "colors": ["Noir"],
+      "material": "Textile",
+      "rider": "Fabio Quartararo",
+      "customerService": "04 699 699 16 (prix d'un appel local)",
+      "serviceHours": "Lundi au vendredi 9h-18h30",
+      "returnPolicy": "Retour gratuit* 30 jours pour changer d'avis",
+      "storePrice": "Profitez du prix internet dans nos magasins",
+      "images": [
+        "/assets/Product-images/Sportswere/t-shirt-pritelli-fabio-quartararo-monster-energy-noir-1.webp",
+        "/assets/Product-images/Sportswere/t-shirt-pritelli-fabio-quartararo-monster-energy-noir-2.webp",
+        "/assets/Product-images/Sportswere/t-shirt-pritelli-fabio-quartararo-monster-energy-noir-3.webp"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "T-Shirt Venum X Mirage Noir Or",
+      "brand": "Venum",
+      "category": "Tee-shirt",
+      "gender": "Homme",
+      "originalPrice": 40.00,
+      "salePrice": 24.00,
+      "description": "Venum en partenariat avec Mirage Racing, nous présente son tee-shirt en coloris noir et or. Découvrez la fusion ultime pour les amateurs d'adrénaline et de sports mécaniques ! Venum et Mirage Racing, champions de la série GT4, vous présentent le T-Shirt Venum x Mirage. Un haut de gamme avec des graphismes audacieux et un logo qui incarne vitesse et style. Victoire garantie, à toute allure !",
+      "technicalDescription": "Manches courtes, Col proche du cou, Graphiques sérigraphiés, Laver à froid, Ne pas repasser, Ne pas sécher au sèche-linge",
+      "sizes": ["L", "2XL"],
+      "colors": ["Noir", "Or"],
+      "material": "Textile",
+      "customerService": "04 699 699 16 (prix d'un appel local)",
+      "serviceHours": "Lundi au vendredi 9h-18h30",
+      "returnPolicy": "Retour gratuit* 30 jours pour changer d'avis",
+      "storePrice": "Profitez du prix internet dans nos magasins",
+      "images": [
+        "/assets/Product-images/Sportswere/t-shirt-venum-x-mirage-noir-or-1.webp",
+        "/assets/Product-images/Sportswere/t-shirt-venum-x-mirage-noir-or-2.webp",
+        "/assets/Product-images/Sportswere/t-shirt-venum-x-mirage-noir-or-3.webp"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "T-Shirt Ixon TS1 Pramac Replica 23 Rouge Violet Blanc",
+      "brand": "Ixon",
+      "category": "Tee-shirt",
+      "gender": "Homme",
+      "originalPrice": 60.00,
+      "salePrice": 33.60,
+      "description": "Ixon vous présente son t-shirt, le Pramac Replica 23 en coloris rouge, violet et blanc. Le tee-shirt à l'effigie du groupe Pramac sera très agréable à porter au quotidien.",
+      "technicalDescription": "52% polyester et 48% coton, Col rond, Manches courtes",
+      "sizes": ["M", "L"],
+      "colors": ["Rouge", "Violet", "Blanc"],
+      "material": "Textile",
+      "customerService": "04 699 699 16 (prix d'un appel local)",
+      "serviceHours": "Lundi au vendredi 9h-18h30",
+      "returnPolicy": "Retour gratuit* 30 jours pour changer d'avis",
+      "storePrice": "Profitez du prix internet dans nos magasins",
+      "images": [
+        "/assets/Product-images/Sportswere/t-shirt-ixon-ts1-pramac-replica-23-rouge-violet-blanc-1.webp",
+        "/assets/Product-images/Sportswere/t-shirt-ixon-ts1-pramac-replica-23-rouge-violet-blanc-2.webp",
+        "/assets/Product-images/Sportswere/t-shirt-ixon-ts1-pramac-replica-23-rouge-violet-blanc-3.webp"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Casquette Venum X Speedway Noir",
+      "brand": "Venum",
+      "category": "Casquette",
+      "originalPrice": 29.99,
+      "salePrice": 19.99,
+      "description": "Venum X Speedway vous présentent leur casquette noire. Fruit d'un partenariat exclusif, cette casquette Venum X Speedway fusionne les emblèmes des deux marques pour un style unique. Conçue en 100% coton, elle offre un ajustement parfait et un confort optimal. Cette casquette est le choix idéal pour afficher votre passion pour le sport avec élégance.",
+      "technicalDescription": "Casquette Venum X Speedway, 100% coton",
+      "colors": ["Noir"],
+      "material": "100% Coton",
+      "exclusivity": "Speedway: Oui",
+      "estimatedDelivery": "Expédition prévue le Vendredi 3 Octobre",
+      "customerService": "04 699 699 16 (prix d'un appel local)",
+      "serviceHours": "Lundi au vendredi 9h-18h30",
+      "returnPolicy": "Retour gratuit* 30 jours pour changer d'avis",
+      "storePrice": "Profitez du prix internet dans nos magasins",
+      "images": [
+        "/assets/Product-images/Sportswere/casquette-venum-x-speedway-noir-1.webp",
+        "/assets/Product-images/Sportswere/casquette-venum-x-speedway-noir-2.webp",
+        "/assets/Product-images/Sportswere/casquette-venum-x-speedway-noir-3.webp"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Veste Klim Inferno Noir",
+      "brand": "Klim",
+      "category": "Gilet",
+      "gender": "Homme",
+      "originalPrice": 120.00,
+      "salePrice": 102.00,
+      "description": "Klim vous présente sa veste thermique, l'Inferno en coloris noir. Prêt à repousser les limites du confort et de la polyvalence ? Découvrer l'Inferno, conçue pour être votre meilleure alliée, que ce soir en couche intermédiaire pendant vos aventures à deux roues ou comme bouclier anti-froid au quotidien. L'équilibre idéal entre chaleur et légèreté, cette veste thermique deviendra rapidement un incontournable.",
+      "technicalDescription": "Conçue en polyester et spandex, Faible encombrement, Polaire anti-pilling 310 gr, Extensibles dans les quatre sens, Matière évacuant l'humidité et hautement respirante, Deux poches mains zippées, Une poche poitrine, Fermeture à glissière YKK",
+      "sizes": ["S", "M", "L", "XL"],
+      "colors": ["Noir"],
+      "material": "Textile",
+      "season": ["Hiver"],
+      "options": ["Sous-vêtement thermique"],
+      "paymentOptions": ["3x", "4x", "10x", "12x"],
+      "paymentPlan": "3 x 40,00 € (sans frais)",
+      "customerService": "04 699 699 16 (prix d'un appel local)",
+      "serviceHours": "Lundi au vendredi 9h-18h30",
+      "returnPolicy": "Retour gratuit* 30 jours pour changer d'avis",
+      "storePrice": "Profitez du prix internet dans nos magasins",
+      "images": [
+        "/assets/Product-images/Sportswere/veste-klim-inferno-noir-1.webp",
+        "/assets/Product-images/Sportswere/veste-klim-inferno-noir-2.webp",
+        "/assets/Product-images/Sportswere/veste-klim-inferno-noir-3.webp"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Sweat Dainese Daemon-X Safety Gris Noir Rouge Fluo",
+      "brand": "Dainese",
+      "category": "Sweat",
+      "gender": "Homme",
+      "originalPrice": 219.00,
+      "salePrice": 140.16,
+      "description": "Dainese vous présente son sweat moto, le Daemon-X Safety en coloris gris, noir et rouge fluo. Avec son style décontracté, ce sweat vous accompagne partout, aussi bien à pied qu'à moto. Eh oui, il comprend des protections homologuées aux coudes et aux épaules, que vous pourrez compléter par une dorsale (en option), grâce à la poche prévue. Ce sweat est l'allié du quotidien.",
+      "composition": "Tissu polaire en polyester",
+      "sizes": ["46", "48", "52", "54"],
+      "colors": ["Gris", "Noir", "Rouge"],
+      "material": "Textile",
+      "season": ["Été", "Mi-saison"],
+      "certification": "Normes Européennes - CE",
+      "protection": "Sweat moto homologué CE, Pro-Shape 2.0 : protections souples homologuées CE EN 1621.1 aux épaules et aux coudes, Bande réfléchissante qui permet aussi d'enrouler la capuche fixe lorsqu'elle n'est pas utilisée",
+      "comfortFeatures": [
+        "Zippé devant pour faciliter l'enfilage",
+        "Cordon de serrage à la capuche",
+        "Bord-côtes au niveau de la taille et des poignets"
+      ],
+      "pockets": ["2 poches extérieures", "1 poche sur la doublure intérieure"],
+      "advantages": [
+        "Bluetooth Earpiece holder : passage pour les écouteurs",
+        "Poche pour protection dorsale G1 ou G2 (en option)"
+      ],
+      "options": ["Avec capuche", "Doublure fixe", "Prédisposé(e) dorsale"],
+      "includedAccessories": ["Protections CE Coudes", "Protections CE Epaules"],
+      "universe": "Urbain",
+      "warranty": "2 ans",
+      "paymentOptions": ["3x", "4x", "10x", "12x"],
+      "paymentPlan": "38,64 € puis 3 x 35,04 €",
+      "customerService": "04 699 699 16 (prix d'un appel local)",
+      "serviceHours": "Lundi au vendredi 9h-18h30",
+      "returnPolicy": "Retour gratuit* 30 jours pour changer d'avis",
+      "storePrice": "Profitez du prix internet dans nos magasins",
+      "frequentlyBoughtTogether": [
+        {
+          "name": "Kit Entretien Cuir Lub'ster",
+          "price": 21.90,
+          "reviews": "(2 avis)"
+        },
+        {
+          "name": "Spray Imperméabilisant Textile Rev'It",
+          "price": 29.99
+        }
+      ],
+      "images": [
+        "/assets/Product-images/Sportswere/sweat-dainese-daemon-x-safety-gris-noir-rouge-fluo-1.webp",
+        "/assets/Product-images/Sportswere/sweat-dainese-daemon-x-safety-gris-noir-rouge-fluo-2.webp",
+        "/assets/Product-images/Sportswere/sweat-dainese-daemon-x-safety-gris-noir-rouge-fluo-3.webp"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Sweat Dainese Daemon-X Safety Noir Blanc",
+      "brand": "Dainese",
+      "category": "Sweat",
+      "gender": "Homme",
+      "originalPrice": 219.00,
+      "salePrice": 168.98,
+      "description": "Dainese vous présente son sweat moto, le Daemon-X Safety en coloris noir et blanc. Avec son style décontracté, ce sweat vous accompagne partout, aussi bien à pied qu'à moto. Eh oui, il comprend des protections homologuées aux coudes et aux épaules, que vous pourrez compléter par une dorsale (en option), grâce à la poche prévue. Ce sweat est l'allié du quotidien.",
+      "composition": "Tissu polaire en polyester",
+      "sizes": ["S", "M", "L", "XL"],
+      "colors": ["Noir", "Blanc"],
+      "material": "Textile",
+      "season": ["Été", "Mi-saison"],
+      "certification": "Normes Européennes - CE",
+      "protection": "Sweat moto homologué CE, Pro-Shape 2.0 : protections souples homologuées CE EN 1621.1 aux épaules et aux coudes, Bande réfléchissante qui permet aussi d'enrouler la capuche fixe lorsqu'elle n'est pas utilisée",
+      "comfortFeatures": [
+        "Zippé devant pour faciliter l'enfilage",
+        "Cordon de serrage à la capuche",
+        "Bord-côtes au niveau de la taille et des poignets"
+      ],
+      "pockets": ["2 poches extérieures", "1 poche sur la doublure intérieure"],
+      "advantages": [
+        "Bluetooth Earpiece holder : passage pour les écouteurs",
+        "Poche pour protection dorsale G1 ou G2 (en option)"
+      ],
+      "options": ["Avec capuche", "Doublure fixe", "Prédisposé(e) dorsale"],
+      "includedAccessories": ["Protections CE Coudes", "Protections CE Epaules"],
+      "universe": "Urbain",
+      "warranty": "2 ans",
+      "paymentOptions": ["3x", "4x", "10x", "12x"],
+      "paymentPlan": "66,28 € puis 2 x 66,26 € (sans frais)",
+      "estimatedDelivery": "Expédition prévue le Vendredi 3 Octobre",
+      "customerService": "04 699 699 16 (prix d'un appel local)",
+      "serviceHours": "Lundi au vendredi 9h-18h30",
+      "returnPolicy": "Retour gratuit* 30 jours pour changer d'avis",
+      "storePrice": "Profitez du prix internet dans nos magasins",
+      "frequentlyBoughtTogether": [
+        {
+          "name": "Kit Entretien Cuir Lub'ster",
+          "price": 21.90,
+          "reviews": "(2 avis)"
+        },
+        {
+          "name": "Spray Imperméabilisant Textile Rev'It",
+          "price": 29.99
+        }
+      ],
+      "images": [
+        "/assets/Product-images/Sportswere/sweat-dainese-daemon-x-safety-noir-blanc-1.webp",
+        "/assets/Product-images/Sportswere/sweat-dainese-daemon-x-safety-noir-blanc-2.webp",
+        "/assets/Product-images/Sportswere/sweat-dainese-daemon-x-safety-noir-blanc-3.webp"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Veste De Pluie Alpinestars Kascade Rain Noir",
+      "brand": "Alpinestars",
+      "category": "Veste de pluie",
+      "gender": "Homme",
+      "originalPrice": 159.95,
+      "salePrice": 132.77,
+      "description": "Alpinestars vous présente sa veste de pluie, la Kascade Rain en coloris noir. Conçue pour affronter les intempéries, la veste Alpinestars Kascade Rain est une protection efficace contre la pluie et le vent. Fabriquée en tissu résistant à l'eau avec des coutures étanches, elle garantit un confort optimal tout en restant légère et fonctionnelle. Son design ergonomique avec manches préformées assure une grande liberté de mouvement, idéale pour les motards et les aventuriers du quotidien.",
+      "technicalDescription": "100 % polyester avec tissu résistant à l'eau 2.5L, Coutures étanches pour une protection optimale contre l'humidité, Tissu imperméable conçu pour repousser l'eau et le vent, Fermeture éclair frontale enduite pour éviter les infiltrations, Capuche fixe avec ajustement par cordon élastique, Manches préformées pour une meilleure ergonomie, Poignets ajustables par Velcro pour un maintien optimal, Poches latérales zippées pour sécuriser vos effets personnels, Idéale pour les sorties sous la pluie ou par temps humide, Design sobre avec logos sur la poitrine et la manche gauche, Léger et pratique, parfait pour un usage quotidien",
+      "sizes": ["S", "M", "L", "XL", "2XL"],
+      "colors": ["Noir"],
+      "material": "Polyester",
+      "options": ["Avec capuche", "Imperméable"],
+      "paymentOptions": ["3x", "4x", "10x", "12x"],
+      "paymentPlan": "52,08 € puis 2 x 52,06 € (sans frais)",
+      "customerService": "04 699 699 16 (prix d'un appel local)",
+      "serviceHours": "Lundi au vendredi 9h-18h30",
+      "returnPolicy": "Retour gratuit* 30 jours pour changer d'avis",
+      "storePrice": "Profitez du prix internet dans nos magasins",
+      "images": [
+        "/assets/Product-images/Sportswere/veste-de-pluie-alpinestars-kascade-rain-noir-1.webp",
+        "/assets/Product-images/Sportswere/veste-de-pluie-alpinestars-kascade-rain-noir-2.webp",
+        "/assets/Product-images/Sportswere/veste-de-pluie-alpinestars-kascade-rain-noir-3.webp"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Sweat À Capuche Femme IXS Rapid 1.0 Noir",
+      "brand": "IXS",
+      "category": "Sweat",
+      "gender": "Femme",
+      "originalPrice": 189.95,
+      "salePrice": 161.46,
+      "description": "IXS vous présente son sweat à capuche pour femme, le Rapid 1.0 en coloris noir. Le sweat à capuche Rapid 1.0 est le parfait équilibre entre style décontracté et protection optimale pour vos virées à moto. Conçu pour les motardes qui ne veulent pas sacrifier le confort à la sécurité, il offre une sensation de douceur semblable à un sweat classique, tout en intégrant des protections certifiées aux épaules, aux coudes et au dos. Sa conception multicouche en tissu X-Stretch assure une liberté de mouvement totale, tandis que les renforts en fibres d'Aramide aux zones clés garantissent une résistance à l'abrasion accrue. La doublure en mesh respirant et le col confortable vous procurent une sensation de fraîcheur par tous les temps. Pratique au quotidien, il dispose de multiples poches et de passe-pouces pour un ajustement parfait. Les éléments réfléchissants améliorent votre visibilité. Certifié CE, ce sweat à capuche est votre allié idéal pour allier style, confort et sécurité sur votre moto. Les équipements IXS taillent grand : si vous hésitez entre deux tailles, nous vous conseillons de choisir la plus petite.",
+      "composition": "Coque extérieure X-Stretch, 60% Polyester, 40% Coton",
+      "lining": "Doublure en mesh",
+      "sizes": ["S", "M", "L", "XL", "2XL"],
+      "colors": ["Noir"],
+      "material": "Textile",
+      "season": ["Été"],
+      "protection": "Zones renforcées en fibres d'Aramide, Matière réfléchissante, Blouson moto homologué CE classe A, Protections coudes et épaules homologuées CE niveau 1, Dorsale intégrée niveau 1",
+      "comfortFeatures": [
+        "Capuche avec cordon de fermeture",
+        "Col haut améliorant le confort",
+        "Passe-pouces"
+      ],
+      "pockets": ["2 poches pour les mains", "2 poches intérieures"],
+      "advantages": ["Prédisposé à l'installation d'un airbag (en option)"],
+      "options": ["Avec capuche"],
+      "includedAccessories": ["Dorsale CE", "Protections CE Coudes", "Protections CE Epaules"],
+      "universe": "Urbain",
+      "backProtectionCertification": "Niveau 1",
+      "jacketCertification": "CE/EPI / CE/EPI Classe A (EN 17092-4:2020)",
+      "warranty": "2 ans",
+      "paymentOptions": ["3x", "4x", "10x", "12x"],
+      "paymentPlan": "63,33 € puis 2 x 63,31 € (sans frais)",
+      "customerService": "04 699 699 16 (prix d'un appel local)",
+      "serviceHours": "Lundi au vendredi 9h-18h30",
+      "returnPolicy": "Retour gratuit* 30 jours pour changer d'avis",
+      "storePrice": "Profitez du prix internet dans nos magasins",
+      "frequentlyBoughtTogether": [
+        {
+          "name": "Kit Entretien Cuir Lub'ster",
+          "price": 21.90,
+          "reviews": "(2 avis)"
+        },
+        {
+          "name": "Spray Imperméabilisant Textile Rev'It",
+          "price": 29.99
+        }
+      ],
+      "images": [
+        "/assets/Product-images/Sportswere/sweat-a-capuche-femme-ixs-rapid-1-0-noir-1.webp",
+        "/assets/Product-images/Sportswere/sweat-a-capuche-femme-ixs-rapid-1-0-noir-2.webp",
+        "/assets/Product-images/Sportswere/sweat-a-capuche-femme-ixs-rapid-1-0-noir-3.webp"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Sweat Macna Nuclone Camouflage",
+      "brand": "Macna",
+      "category": "Sweat",
+      "gender": "Homme",
+      "originalPrice": 129.95,
+      "salePrice": 98.35,
+      "description": "Macna vous propose son sweat moto pour homme, le Nuclone, en coloris camouflage. Le Nuclone est un sweat renforcé spécial moto conçu pour utilisation quotidienne. Son look actuel et urbain rend cette veste parfaite pour les plus citadins d'entre vous et elle assure un haut niveau de sécurité. En effet ses renforts en Kevlar aux points stratégiques et ses protections homologuées CE au niveau des coudes et des épaules garantissent un maximum de sécurité.",
+      "technicalDescription": "Sweat moto pour homme, Renforts internes avec maille en fibre de DuPont Kevlar, Doublure en polyester Mesh, Poche pour dorsale, Protections homologuées CE amovibles aux coudes et aux épaules, Conçue pour un usage urbain, Dorsale compatible : Macna R.I.S.C. Niveau 2 43-48 cm (vendue séparément)",
+      "sizes": ["S"],
+      "colors": ["Anthracite", "Kaki", "Noir"],
+      "material": "Textile",
+      "season": ["Été", "Mi-saison"],
+      "certification": "Normes Européennes - CE",
+      "options": ["Prédisposé(e) dorsale"],
+      "includedAccessories": ["Protections CE Coudes", "Protections CE Epaules"],
+      "universe": "Urbain",
+      "paymentOptions": ["3x", "4x", "10x", "12x"],
+      "paymentPlan": "38,58 € puis 2 x 38,56 € (sans frais)",
+      "customerService": "04 699 699 16 (prix d'un appel local)",
+      "serviceHours": "Lundi au vendredi 9h-18h30",
+      "returnPolicy": "Retour gratuit* 30 jours pour changer d'avis",
+      "storePrice": "Profitez du prix internet dans nos magasins",
+      "frequentlyBoughtTogether": [
+        {
+          "name": "Kit Entretien Cuir Lub'ster",
+          "price": 21.90,
+          "reviews": "(2 avis)"
+        },
+        {
+          "name": "Spray Imperméabilisant Textile Rev'It",
+          "price": 29.99
+        }
+      ],
+      "images": [
+        "/assets/Product-images/Sportswere/sweat-macna-nuclone-camouflage-1.webp",
+        "/assets/Product-images/Sportswere/sweat-macna-nuclone-camouflage-2.webp",
+        "/assets/Product-images/Sportswere/sweat-macna-nuclone-camouflage-3.webp"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Sweat Enfant Furygan Luxio Noir Jaune",
+      "brand": "Furygan",
+      "category": "Sweat",
+      "gender": "Enfant",
+      "originalPrice": 119.90,
+      "salePrice": 95.92,
+      "description": "Furygan vous présente son sweat à capuche moto, le Luxio en coloris noir et jaune. Ce sweat moto en coton et polyester pour enfant est très confort et protecteur. En effet, il dispose de protections D3O aux coudes et aux épaules, pour vous assurer la bonne sécurité de votre enfant. Grâce à ce sweat à capuche Furygan, votre petit passager sera idéalement équipé. Vous pourrez aussi renforcer sa protection en ajoutant la dorsale compatible Furygan D3O (en option) dans la poche prévue. De plus, des renforts en fibres d'aramide aux coudes et aux épaules procureront une sécurité supplémentaire, grâce à la résistance à l'abrasion. Retrouvez une doublure fixe matelassée qui apportera à votre enfant beaucoup de confort et les différentes poches seront très pratiques. Vous pourrez aussi raccorder ce sweat à la ceinture du pantalon, grâce aux pattes de raccordement, ainsi vous aurez l'assurance que votre enfant profitera d'un équipement à l'ajustement idéal avec un bon maintien.",
+      "technicalDescription": "Sweat moto pour enfant homologué CE, Coton et polyester, Renforts en fibres d'aramide sur les coudes et les épaules, Doublure fixe matelassée, 3 poches zippées (2 externes et 1 interne), Pattes de raccordement pour ceinture pantalon, Protections D3O aux coudes et aux épaules, Poche pour la dorsale compatible D3O (en option)",
+      "sizes": ["6 ans", "8 ans"],
+      "colors": ["Noir", "Jaune"],
+      "material": "Textile",
+      "season": ["Été", "Mi-saison"],
+      "certification": "Normes Européennes - CE",
+      "options": ["Avec capuche", "Prédisposé(e) dorsale", "Raccord pantalon/veste"],
+      "includedAccessories": ["Protections CE Coudes", "Protections CE Epaules"],
+      "universe": "Urbain",
+      "warranty": "2 ans",
+      "customerService": "04 699 699 16 (prix d'un appel local)",
+      "serviceHours": "Lundi au vendredi 9h-18h30",
+      "returnPolicy": "Retour gratuit* 30 jours pour changer d'avis",
+      "storePrice": "Profitez du prix internet dans nos magasins",
+      "images": [
+        "/assets/Product-images/Sportswere/sweat-enfant-furygan-luxio-noir-jaune-1.webp",
+        "/assets/Product-images/Sportswere/sweat-enfant-furygan-luxio-noir-jaune-2.webp",
+        "/assets/Product-images/Sportswere/sweat-enfant-furygan-luxio-noir-jaune-3.webp"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Sweat Macna Nuclone Noir",
+      "brand": "Macna",
+      "category": "Sweat",
+      "gender": "Homme",
+      "originalPrice": 139.95,
+      "salePrice": 118.96,
+      "description": "Macna vous présente son sweat moto pour homme, le Nuclone en coloris noir. Le Macna Nuclone est un sweat renforcé spécial moto, conçu pour une utilisation quotidienne et décontractée. Son look actuel et urbain rend ce sweat parfait pour les plus citadins d'entre vous et elle assure un haut niveau de sécurité au quotidien. En effet ses renforts en Kevlar aux points stratégiques et ses protections homologuées CE au niveau des coudes et des épaules garantissent des trajets en toute sérénité. Son confort sera assuré quant à lui grâce à sa doublure fixe en Mesh, permettant une aération optimale durant la saison estivale. Ne choisissez plus entre confort et sécurité pour l'été, optez Macna !",
+      "technicalDescription": "Sweat moto pour homme, Renforts internes avec maille en fibre de DuPont Kevlar, Doublure en polyester Mesh, Poche pour dorsale, Protections homologuées CE amovibles aux coudes et aux épaules, Conçue pour un usage urbain, Dorsale compatible : Macna R.I.S.C. Niveau 2 43-48 cm (vendue séparément)",
+      "sizes": ["M", "L", "XL", "2XL", "3XL"],
+      "colors": ["Noir"],
+      "material": "Textile",
+      "season": ["Été", "Mi-saison"],
+      "certification": "Normes Européennes - CE",
+      "options": ["Prédisposé(e) dorsale"],
+      "includedAccessories": ["Protections CE Coudes", "Protections CE Epaules"],
+      "universe": "Urbain",
+      "paymentOptions": ["3x", "4x", "10x", "12x"],
+      "paymentPlan": "3 x 46,65 € (sans frais)",
+      "customerService": "04 699 699 16 (prix d'un appel local)",
+      "serviceHours": "Lundi au vendredi 9h-18h30",
+      "returnPolicy": "Retour gratuit* 30 jours pour changer d'avis",
+      "storePrice": "Profitez du prix internet dans nos magasins",
+      "frequentlyBoughtTogether": [
+        {
+          "name": "Kit Entretien Cuir Lub'ster",
+          "price": 21.90,
+          "reviews": "(2 avis)"
+        },
+        {
+          "name": "Spray Imperméabilisant Textile Rev'It",
+          "price": 29.99
+        }
+      ],
+      "images": [
+        "/assets/Product-images/Sportswere/sweat-macna-nuclone-noir-1.webp",
+        "/assets/Product-images/Sportswere/sweat-macna-nuclone-noir-2.webp",
+        "/assets/Product-images/Sportswere/sweat-macna-nuclone-noir-3.webp"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Sweat REV'IT Cedar Noir",
+      "brand": "REV'IT",
+      "category": "Sweat",
+      "gender": "Homme",
+      "originalPrice": 319.99,
+      "salePrice": 319.99,
+      "description": "REV'IT nous propose son sweat à capuche, le Cedar en coloris noir. Découvrez cette création unique de la marque REV'IT et succombez à ce vêtement qui mêle tendance et protections. Il est à la fois robuste face aux déchirures et à l'abrasion et propose un style décontracté sur la moto grâce à sa capuche. Sa couche externe en CORDURA® Ripstop et tricot CORDURA® lui permet d'être résistant à une chute et procure également un grand confort. L'armure SEESMART™ CE-niveau 1 s'étend sur les épaules et les coudes et ceux-ci sont également réfléchissants pour un maximum de sécurité. Enfin, ce sweat s'équipe également d'une poche compatible avec la protection dorsale CE-niveau 2 (en option).",
+      "technicalDescription": "Sweat moto pour homme avec capuche, Robuste face aux déchirures et à l'abrasion, Couche externe en CORDURA® Ripstop et tricot CORDURA®, Armure SEESMART™ CE-niveau 1 épaules et coudes, Bandes réfléchissantes stratifiées, Insert pour protection dorsale (en option)",
+      "sizes": ["S"],
+      "colors": ["Noir"],
+      "material": "Textile",
+      "season": ["Été", "Mi-saison"],
+      "certification": "Normes Européennes - CE",
+      "options": ["Avec capuche", "Prédisposé(e) dorsale"],
+      "includedAccessories": ["Protections CE Coudes", "Protections CE Epaules"],
+      "universe": "Urbain",
+      "warranty": "2 ans",
+      "paymentOptions": ["3x", "4x", "10x", "12x"],
+      "paymentPlan": "106,67 € puis 2 x 106,66 € (sans frais)",
+      "customerService": "04 699 699 16 (prix d'un appel local)",
+      "serviceHours": "Lundi au vendredi 9h-18h30",
+      "returnPolicy": "Retour gratuit* 30 jours pour changer d'avis",
+      "storePrice": "Profitez du prix internet dans nos magasins",
+      "frequentlyBoughtTogether": [
+        {
+          "name": "Dorsale REV'IT Seesoft RV Bleu",
+          "price": 43.99,
+          "reviews": "(39 avis)"
+        },
+        {
+          "name": "Sac à Dos Tekride WP Line Rudy 35L Noir Gris",
+          "price": 59.90
+        }
+      ],
+      "images": [
+        "/assets/Product-images/Sportswere/sweat-revit-cedar-noir-1.webp",
+        "/assets/Product-images/Sportswere/sweat-revit-cedar-noir-2.webp",
+        "/assets/Product-images/Sportswere/sweat-revit-cedar-noir-3.webp"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Sac À Dos Tekride WP Line Rudy 35L Noir Gris Rouge",
+      "brand": "Tekride",
+      "category": "Accessories",
+      "originalPrice": 59.90,
+      "salePrice": 59.90,
+      "description": "Sac à dos technique et imperméable de 35L pour moto et usage quotidien.",
+      "colors": ["Noir", "Gris", "Rouge"],
+      "capacity": "35L",
+      "features": ["Imperméable", "Multiple compartiments", "Confortable"],
+      "images": [
+        "/assets/Product-images/Sportswere/sac-a-dos-tekride-wp-line-rudy-35l-noir-gris-rouge.jpg",
+        "/assets/Product-images/Sportswere/sac-a-dos-tekride-wp-line-rudy-35l-noir-gris-rouge (1).jpg",
+        "/assets/Product-images/Sportswere/sac-a-dos-tekride-wp-line-rudy-35l-noir-gris-rouge (2).jpg",
+        "/assets/Product-images/Sportswere/sac-a-dos-tekride-wp-line-rudy-35l-noir-gris-rouge (3).jpg",
+        "/assets/Product-images/Sportswere/sac-a-dos-tekride-wp-line-rudy-35l-noir-gris-rouge (4).jpg",
+        "/assets/Product-images/Sportswere/sac-a-dos-tekride-wp-line-rudy-35l-noir-gris-rouge (5).jpg",
+        "/assets/Product-images/Sportswere/sac-a-dos-tekride-wp-line-rudy-35l-noir-gris-rouge (6).jpg",
+        "/assets/Product-images/Sportswere/sac-a-dos-tekride-wp-line-rudy-35l-noir-gris-rouge (7).jpg"
+      ]
+    }
+  ],
+  "customerService": {
+    "phone": "04 699 699 16",
+    "hours": "Lundi au vendredi 9h-18h30",
+    "returnPolicy": "Retour gratuit* 30 jours pour changer d'avis",
+    "storePrice": "Profitez du prix internet dans nos magasins",
+    "note": "Faites en la demande directement en magasin"
+  }
+}

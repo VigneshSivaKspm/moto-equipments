@@ -1,0 +1,439 @@
+{
+  "biker_equipment": [
+    {
+      "name": "Ixon Ixflow Knit Women's Gloves Black Fushia",
+      "price": "€60.52",
+      "description": "Ixon presents its summer motorcycle gloves, the Ixflow Knit in black and fuchsia. These CE and PPE certified motorcycle gloves offer optimal protection with an AX Suede palm, a soft knitted mesh back of the hand and invisible protective shells.",
+        "images": [
+          "/assets/Product-images/Biker-equipments/gants-femme-ixon-ixflow-knit-noir-fushia.webp",
+          "/assets/Product-images/Biker-equipments/gants-femme-ixon-ixflow-knit-noir-fushia (1).webp"
+        ],
+      "features": {
+        "Seasonality": "Summer",
+        "Product type": "Motorcycle gloves",
+        "Gender": "Women",
+        "Matter": "Textile",
+        "Color": "Fuchsia / Black",
+        "Gloves approval": "CE / EPI Level 1 KP",
+        "Options": "Touch screen",
+        "Universe": "Urban",
+        "Guarantee": "2 years",
+        "Headlines": "Short"
+      }
+    },
+    {
+      "name": "Ixon Cranky Black Jacket",
+      "price": "€170.00",
+      "description": "Ixon presents its leather motorcycle jacket, the Cranky in black. This vintage-style leather jacket will blend perfectly into everyday life. Its CE-certified level 2 protections will ensure your protection and safety on two wheels.",
+        "images": [
+          "/assets/Product-images/Biker-equipments/blouson-ixon-cranky-noir.webp",
+          "/assets/Product-images/Biker-equipments/blouson-ixon-cranky-noir (1).webp"
+        ],
+      "features": {
+        "Seasonality": "Summer / Mid-season",
+        "Product type": "Jacket",
+        "Gender": "Man",
+        "Matter": "Leather",
+        "Color": "Black",
+        "Options": "Predisposed back / Trouser/jacket connection",
+        "Accessories included": "CE Elbow Protections / CE Shoulder Protections",
+        "Universe": "Urban",
+        "Guarantee": "2 years",
+        "Jacket approval": "CE/EPI / CE/EPI Class A (EN 17092-4:2020)"
+      }
+    },
+    {
+      "name": "Bering Dundy Jacket Black Red",
+      "price": "€143.99",
+      "description": "Bering offers us the Dundy men's jacket in black and red. The Dundy is a roadster motorcycle jacket that offers style and safety with its slim fit and integrated protection.",
+        "images": [
+          "/assets/Product-images/Biker-equipments/blouson-bering-dundy-noir-rouge.webp",
+          "/assets/Product-images/Biker-equipments/blouson-bering-dundy-noir-rouge (1).webp"
+        ],
+      "features": {
+        "Seasonality": "Summer / Mid-season",
+        "Product type": "Jacket",
+        "Gender": "Man",
+        "Matter": "Textile",
+        "Color": "Black / Red",
+        "Options": "Fixed lining / Waterproof / Predisposed back / Trouser/jacket connection",
+        "Accessories included": "Removable Lining / CE Elbow Protections / CE Shoulder Protections",
+        "Universe": "Roadster/Sport",
+        "Jacket approval": "CE/EPI / CE/EPI Class A (EN 17092-4:2020)"
+      }
+    },
+    {
+      "name": "Bering Lady Hoodiz 2 Black Fuchsia Women's Jacket",
+      "price": "€119.99",
+      "description": "Bering presents its motorcycle sweatshirt, the Lady Hoodiz 2 in black and fuchsia. Behind its urban look, ideal for your motorcycle or scooter journeys, hides a very complete garment that will allow you to face the road in complete safety and with great comfort.",
+        "images": [
+          "/assets/Product-images/Biker-equipments/blouson-femme-bering-lady-hoodiz-2-noir-fuchsia.webp",
+          "/assets/Product-images/Biker-equipments/blouson-femme-bering-lady-hoodiz-2-noir-fuchsia (1).webp",
+          "/assets/Product-images/Biker-equipments/blouson-femme-bering-lady-hoodiz-2-noir-fuchsia (2).webp",
+          "/assets/Product-images/Biker-equipments/blouson-femme-bering-lady-hoodiz-2-noir-fuchsia (3).webp",
+          "/assets/Product-images/Biker-equipments/blouson-femme-bering-lady-hoodiz-2-noir-fuchsia (4).webp"
+        ],
+      "features": {
+        "Seasonality": "Summer / Mid-season",
+        "Approval": "European Standards - CE",
+        "Product type": "Sweatshirt",
+        "Gender": "Women",
+        "Matter": "Textile",
+        "Color": "Fuchsia / Black",
+        "Options": "Fixed lining / Predisposed back / Trouser/jacket connection",
+        "Accessories included": "CE Elbow Protections / CE Shoulder Protections",
+        "Universe": "Urban",
+        "Guarantee": "2 years"
+      }
+    },
+    {
+      "name": "Bering Dundy Jacket Black White",
+      "price": "€143.99",
+      "description": "Bering presents its Dundy motorcycle jacket in black and white. With its versatile and modern design, it combines style and functionality. Made with high-quality materials, this jacket offers optimal protection thanks to its advanced technical features.",
+        "images": [
+          "/assets/Product-images/Biker-equipments/blouson-bering-dundy-noir-blanc.webp",
+          "/assets/Product-images/Biker-equipments/blouson-bering-dundy-noir-blanc (1).webp"
+        ],
+      "features": {
+        "Seasonality": "All seasons",
+        "Product type": "Jacket",
+        "Gender": "Man",
+        "Matter": "Textile",
+        "Color": "White / Black",
+        "Options": "Fixed lining / Waterproof / Predisposed back / Trouser/jacket connection",
+        "Accessories included": "Removable Lining / CE Elbow Protections / CE Shoulder Protections",
+        "Universe": "Roadster/Sport",
+        "Guarantee": "2 years",
+        "Jacket approval": "CE/EPI"
+      }
+    },
+    {
+      "name": "Ixon Jackal Jacket Black White Red",
+      "price": "€249.99",
+      "description": "Ixon presents its summer jacket, the Jackal in black, white and red. With its lightness and excellent ventilation, it is very safe. Indeed, the Jackal has CE-approved protections on the elbows and shoulders.",
+        "images": [
+          "/assets/Product-images/Biker-equipments/blouson-ixon-jackal-noir-blanc-rouge.webp",
+          "/assets/Product-images/Biker-equipments/blouson-ixon-jackal-noir-blanc-rouge (1).webp"
+        ],
+      "features": {
+        "Seasonality": "Summer",
+        "Product type": "Jacket",
+        "Gender": "Man",
+        "Matter": "Leather",
+        "Color": "Black",
+        "Options": "Predisposed back / Trouser/jacket connection",
+        "Accessories included": "CE Elbow Protections / CE Shoulder Protections",
+        "Universe": "Racing / Roadster/Sport",
+        "Guarantee": "2 years",
+        "Jacket approval": "CE/EPI / CE/EPI Class AAA (EN 17092-2:2020)"
+      }
+    },
+    {
+      "name": "Blouson Femme Segura Lady Garrisson Bleu Navy",
+      "price": "186,99 €",
+      "description": "Segura vous présente son blouson moto, le Lady Garrisson en coloris bleu navy. Ce blouson possède un col bord-côte, un double zip frontal, des pattes de serrage par pression au niveau des poignets, des poignets zippés afin de faciliter l'enfilage.",
+        "images": [
+          "/assets/Product-images/Biker-equipments/blouson-femme-segura-lady-garrisson-bleu-navy.webp",
+          "/assets/Product-images/Biker-equipments/blouson-femme-segura-lady-garrisson-bleu-navy (1).webp",
+          "/assets/Product-images/Biker-equipments/blouson-femme-segura-lady-garrisson-bleu-navy (2).webp",
+          "/assets/Product-images/Biker-equipments/blouson-femme-segura-lady-garrisson-bleu-navy (3).webp"
+        ],
+      "features": {
+        "Saisonnalité": "Mi-saison",
+        "Type de produit": "Blouson",
+        "Genre": "Femme",
+        "Matière": "Textile",
+        "Couleur": "Bleu",
+        "Options": "Imperméable / Prédisposé(e) dorsale",
+        "Accessoires inclus": "Doublure Amovible / Protections CE Coudes / Protections CE Epaules",
+        "Univers": "Urbain / Vintage/Néo rétro",
+        "Garantie": "2 ans",
+        "Homologation blouson / veste": "CE/EPI"
+      }
+    },
+    {
+      "name": "Blouson Ixon Cranky Air Marron",
+      "price": "288,99 €",
+      "description": "Ixon vous présente son blouson en cuir, le Cranky Air en coloris marron. Affirmez votre style de café racer avec ce blouson en cuir microperforé. Le Cranky Air vous offre une qualité de confort exceptionnel.",
+        "images": [
+          "/assets/Product-images/Biker-equipments/blouson-ixon-cranky-air-marron.webp",
+          "/assets/Product-images/Biker-equipments/blouson-ixon-cranky-air-marron (1).webp"
+        ],
+      "features": {
+        "Saisonnalité": "Été",
+        "Type de produit": "Blouson",
+        "Genre": "Homme",
+        "Matière": "Cuir",
+        "Couleur": "Marron",
+        "Options": "Doublure fixe / Prédisposé(e) dorsale",
+        "Accessoires inclus": "Doublure Amovible / Protections CE Coudes / Protections CE Epaules",
+        "Univers": "Urbain / Vintage/Néo rétro",
+        "Homologation blouson / veste": "CE/EPI / CE/EPI Classe A (EN 17092-4:2020)"
+      }
+    },
+    {
+      "name": "Blouson Ixon Harry Noir",
+      "price": "167,99 €",
+      "description": "Ixon vous présente son blouson pour homme, le Harry en coloris noir. Ce blouson conviendra aussi bien pour un motard urbain que pour un routier. Avec son style passe-partout, le Harry sera idéal pour la mi-saison.",
+        "images": [
+          "/assets/Product-images/Biker-equipments/blouson-ixon-harry-noir.webp",
+          "/assets/Product-images/Biker-equipments/blouson-ixon-harry-noir (1).webp"
+        ],
+      "features": {
+        "Saisonnalité": "Mi-saison",
+        "Type de produit": "Blouson",
+        "Genre": "Homme",
+        "Matière": "Textile",
+        "Couleur": "Noir",
+        "Options": "Imperméable / Prédisposé(e) dorsale",
+        "Accessoires inclus": "Doublure Amovible / Protections CE Coudes / Protections CE Epaules",
+        "Univers": "Urbain",
+        "Garantie": "2 years",
+        "Homologation blouson / veste": "CE/EPI / CE/EPI Classe A (EN 17092-4:2020)"
+      }
+    },
+    {
+      "name": "Blouson Bering Cruiser Noir",
+      "price": "183,99 €",
+      "description": "Bering vous présente son blouson moto textile, le Cruiser en coloris noir. Élégant, ce blouson classique comprend une construction en textile résistant. Il offre aussi confort et protection.",
+        "images": [
+          "/assets/Product-images/Biker-equipments/blouson-bering-cruiser-noir.webp",
+          "/assets/Product-images/Biker-equipments/blouson-bering-cruiser-noir (1).webp"
+        ],
+      "features": {
+        "Saisonnalité": "Mi-saison",
+        "Type de produit": "Blouson",
+        "Genre": "Homme",
+        "Matière": "Textile",
+        "Couleur": "Noir",
+        "Options": "Doublure fixe / Imperméable / Prédisposé(e) dorsale",
+        "Accessoires inclus": "Doublure Amovible / Protections CE Coudes / Protections CE Epaules",
+        "Univers": "Urbain",
+        "Garantie": "2 ans",
+        "Homologation blouson / veste": "CE/EPI / CE/EPI Classe AA (EN 17092-3:2020)"
+      }
+    },
+    {
+      "name": "Blouson Bering Cruiser Bleu",
+      "price": "183,99 €",
+      "description": "Bering vous présente son blouson moto textile, le Cruiser en coloris bleu. Élégant, ce blouson classique comprend une construction en textile résistant. Il offre aussi confort et protection.",
+        "images": [
+          "assets/Product-images/Biker-equipments/blouson-bering-cruiser-bleu.webp",
+          "assets/Product-images/Biker-equipments/blouson-bering-cruiser-bleu (1).webp",
+          "assets/Product-images/Biker-equipments/blouson-bering-cruiser-bleu (2).webp",
+          "assets/Product-images/Biker-equipments/blouson-bering-cruiser-bleu (3).webp",
+          "assets/Product-images/Biker-equipments/blouson-bering-cruiser-bleu (4).webp"
+        ],
+      "features": {
+        "Saisonnalité": "Mi-saison",
+        "Type de produit": "Blouson",
+        "Genre": "Homme",
+        "Matière": "Textile",
+        "Couleur": "Bleu",
+        "Options": "Doublure fixe / Imperméable / Prédisposé(e) dorsale",
+        "Accessoires inclus": "Doublure Amovible / Protections CE Coudes / Protections CE Epaules",
+        "Univers": "Urbain",
+        "Garantie": "2 ans",
+        "Homologation blouson / veste": "CE/EPI / CE/EPI Classe AA (EN 17092-3:2020)"
+      }
+    },
+    {
+      "name": "Blouson Furygan Diablo Noir Rouge",
+      "price": "169,90 €TTC",
+      "description": "Furygan vous présente son blouson textile moto, le Diablo en coloris noir et rouge. Le Diablo est conçu en polyester, une matière hautement résistante. Prévu pour être porté en toutes saisons, le blouson est totalement imperméable.",
+        "images": [
+          "/assets/Product-images/Biker-equipments/blouson-furygan-diablo-noir-rouge.jpg",
+          "/assets/Product-images/Biker-equipments/blouson-furygan-diablo-noir-rouge (1).jpg",
+          "/assets/Product-images/Biker-equipments/blouson-furygan-diablo-noir-rouge (2).jpg",
+          "/assets/Product-images/Biker-equipments/blouson-furygan-diablo-noir-rouge (3).jpg"
+        ],
+      "features": {
+        "Saisonnalité": "Toutes saisons",
+        "Type de produit": "Blouson",
+        "Genre": "Homme",
+        "Matière": "Textile",
+        "Couleur": "Noir / Rouge",
+        "Options": "Imperméable / Prédisposé(e) dorsale / Raccord pantalon/veste",
+        "Accessoires inclus": "Doublure Amovible / Protections CE Coudes / Protections CE Epaules",
+        "Exclusivité Speedway": "Oui",
+        "Univers": "Roadster/Sport",
+        "Garantie": "2 ans",
+        "Homologation blouson / veste": "CE/EPI"
+      }
+    },
+    {
+      "name": "Blouson Furygan Diablo Noir Blanc",
+      "price": "169,90 €TTC",
+      "description": "Furygan vous présente son blouson textile moto, le Diablo en coloris noir et blanc. Le Diablo est conçu en polyester, une matière hautement résistante. Prévu pour être porté en toutes saisons, le blouson est totalement imperméable.",
+        "images": [
+          "/assets/Product-images/Biker-equipments/blouson-furygan-diablo-noir-blanc.webp",
+          "/assets/Product-images/Biker-equipments/blouson-furygan-diablo-noir-blanc (1).webp",
+          "/assets/Product-images/Biker-equipments/blouson-furygan-diablo-noir-blanc (2).webp",
+          "/assets/Product-images/Biker-equipments/blouson-furygan-diablo-noir-blanc (3).webp"
+        ],
+      "features": {
+        "Saisonnalité": "Toutes saisons",
+        "Type de produit": "Blouson",
+        "Genre": "Homme",
+        "Matière": "Textile",
+        "Couleur": "Noir",
+        "Options": "Imperméable / Prédisposé(e) dorsale / Raccord pantalon/veste",
+        "Accessoires inclus": "Doublure Amovible / Protections CE Coudes / Protections CE Epaules",
+        "Exclusivité Speedway": "Oui",
+        "Univers": "Roadster/Sport",
+        "Garantie": "2 ans",
+        "Homologation blouson / veste": "CE/EPI"
+      }
+    },
+    {
+      "name": "Veste Bering Cobalt Noir Rouge",
+      "price": "189,99 €",
+      "description": "Bering nous présente sa veste moto Adventure, la Cobalt en coloris noir et rouge. Cette superbe veste Adventure est un savant mélange de technicités, de qualités et de confort, tout en étant très belle.",
+        "images": [
+          "/assets/Product-images/Biker-equipments/veste-bering-cobalt-noir-rouge.webp",
+          "/assets/Product-images/Biker-equipments/veste-bering-cobalt-noir-rouge (1).webp",
+          "/assets/Product-images/Biker-equipments/veste-bering-cobalt-noir-rouge (2).webp",
+          "/assets/Product-images/Biker-equipments/veste-bering-cobalt-noir-rouge (3).webp"
+        ],
+      "features": {
+        "Saisonnalité": "Toutes saisons",
+        "Type de produit": "Veste",
+        "Genre": "Homme",
+        "Matière": "Textile",
+        "Couleur": "Noir / Rouge",
+        "Options": "Doublure fixe / Imperméable / Prédisposé(e) dorsale / Raccord pantalon/veste",
+        "Accessoires inclus": "Doublure Amovible / Protections CE Coudes / Protections CE Epaules",
+        "Univers": "Adventure/Touring",
+        "Garantie": "2 ans",
+        "Homologation blouson / veste": "CE/EPI / CE/EPI Classe A (EN 17092-4:2020)"
+      }
+    },
+    {
+      "name": "Gilet Airbag Furygan Evo Noir",
+      "price": "330,20 €",
+      "description": "Furygan vous présente son gilet airbag, l'Evo en coloris noir. Découvrez le Fury Airbag Evo, une référence en matière de protection motarde. Redéfinissant les normes de sécurité avec la technologie In&motion.",
+        "images": [
+          "/assets/Product-images/Biker-equipments/gilet-airbag-furygan-evo-noir.webp",
+          "/assets/Product-images/Biker-equipments/gilet-airbag-furygan-evo-noir (1).webp",
+          "/assets/Product-images/Biker-equipments/gilet-airbag-furygan-evo-noir (2).webp",
+          "/assets/Product-images/Biker-equipments/gilet-airbag-furygan-evo-noir (3).webp",
+          "/assets/Product-images/Biker-equipments/gilet-airbag-furygan-evo-noir (4).webp"
+        ],
+      "features": {
+        "Type de produit": "Gilet airbag",
+        "Déclenchement Airbag": "Électronique",
+        "Genre": "Unisexe",
+        "Matière": "Textile",
+        "Couleur": "Noir",
+        "Options": "Doublure fixe",
+        "Accessoires inclus": "Dorsale CE",
+        "SRA": "5 étoiles",
+        "Univers": "Adventure/Touring / Racing / Roadster/Sport / Urbain",
+        "Garantie": "2 ans",
+        "Abonnement": "Oui"
+      }
+    },
+    {
+      "name": "Blouson Femme Ixon Lady Burning Noir",
+      "price": "241,40 €",
+      "description": "Ixon vous présente son blouson moto, le Lady Burning en coloris noir. Simple et sportif, ce blouson vous assurera confort et sécurité lors de vos sorties à deux roues.",
+        "images": [
+          "/assets/Product-images/Biker-equipments/blouson-femme-ixon-lady-burning-noir.webp"
+        ],
+      "features": {
+        "Saisonnalité": "Toutes saisons",
+        "Type de produit": "Blouson",
+        "Genre": "Femme",
+        "Matière": "Textile",
+        "Couleur": "Noir",
+        "Options": "Avec capuche / Doublure fixe / Imperméable / Prédisposé(e) dorsale",
+        "Accessoires inclus": "Doublure Amovible / Protections CE Coudes / Protections CE Epaules",
+        "Univers": "Roadster/Sport / Urbain",
+        "Garantie": "2 ans",
+        "Homologation blouson / veste": "CE/EPI / CE/EPI Classe AA (EN 17092-3:2020)"
+      }
+    },
+    {
+      "name": "Veste Macna Mondo 2.0 Noir",
+      "price": "186,96 €",
+      "description": "Macna vous présente sa veste pour homme, la Mondo 2.0 en coloris noir. Conçue en tissu extensible softwill, la veste Mondo 2.0 offre une liberté de mouvement incomparable.",
+        "images": [
+          "/assets/Product-images/Biker-equipments/veste-macna-mondo-20-noir.jpg",
+          "/assets/Product-images/Biker-equipments/veste-macna-mondo-20-noir (1).jpg"
+        ],
+      "features": {
+        "Saisonnalité": "Mi-saison",
+        "Type de produit": "Veste",
+        "Genre": "Homme",
+        "Matière": "Textile",
+        "Couleur": "Noir",
+        "Options": "Avec capuche / Imperméable / Prédisposé(e) dorsale",
+        "Accessoires inclus": "Doublure Amovible / Protections CE Coudes / Protections CE Epaules",
+        "Univers": "Adventure/Touring",
+        "Garantie": "2 ans",
+        "Homologation blouson / veste": "CE/EPI / CE/EPI Classe A (EN 17092-4:2020)"
+      }
+    },
+    {
+      "name": "Blouson Femme Furygan Lady Jody Noir",
+      "price": "158,87 €",
+      "description": "Furygan nous propose son blouson moto, le Lady Jody en coloris noir. Ce blouson textile élégant en toute circonstance vous assure une grande polyvalence.",
+        "images": [
+          "assets/Product-images/Biker-equipments/blouson-femme-furygan-lady-jody-noir.webp",
+          "assets/Product-images/Biker-equipments/blouson-femme-furygan-lady-jody-noir (1).webp"
+        ],
+      "features": {
+        "Saisonnalité": "Toutes saisons",
+        "Type de produit": "Blouson",
+        "Genre": "Femme",
+        "Matière": "Textile",
+        "Couleur": "Noir",
+        "Options": "Imperméable / Prédisposé(e) dorsale / Raccord pantalon/veste",
+        "Accessoires inclus": "Doublure Amovible / Protections CE Coudes / Protections CE Epaules",
+        "Univers": "Urbain",
+        "Garantie": "2 ans",
+        "Homologation blouson / veste": "CE/EPI / CE/EPI Classe A (EN 17092-4:2020)"
+      }
+    },
+    {
+      "name": "Blouson Femme Bering Lady Riva Noir Fuchsia",
+      "price": "143,99 €",
+      "description": "Bering nous présente son blouson moto femme, le Lady Riva en coloris noir et fuchsia. Ce blouson polyvalent vous accompagne à moto ! Il vous promet confort et sécurité.",
+        "images": [
+          "assets/Product-images/Biker-equipments/blouson-femme-bering-lady-riva-noir-fuchsia.webp",
+          "assets/Product-images/Biker-equipments/blouson-femme-bering-lady-riva-noir-fuchsia (1).webp"
+        ],
+      "features": {
+        "Saisonnalité": "Toutes saisons",
+        "Type de produit": "Blouson",
+        "Genre": "Femme",
+        "Matière": "Textile",
+        "Couleur": "Fuchsia / Noir",
+        "Options": "Doublure fixe / Imperméable / Prédisposé(e) dorsale",
+        "Accessoires inclus": "Doublure Amovible / Protections CE Coudes / Protections CE Epaules",
+        "Univers": "Roadster/Sport",
+        "Garantie": "2 ans",
+        "Homologation blouson / veste": "CE/EPI / CE/EPI Classe A (EN 17092-4:2020)"
+      }
+    },
+    {
+      "name": "Dorsale Furygan Full Back D3O Evo Orange",
+      "price": "39,90 €TTC",
+      "description": "Furygan vous présente sa protection dorsale pour adulte, la FULL BACK D3O EVO en coloris orange. Conçue pour s'adapter parfaitement à votre dos, elle se distingue par sa souplesse, sa finesse et sa flexibilité.",
+        "images": [
+          "assets/Product-images/Biker-equipments/dorsale-furygan-fury-d3o-orange.webp",
+          "assets/Product-images/Biker-equipments/dorsale-furygan-fury-d3o-orange (1).webp",
+          "assets/Product-images/Biker-equipments/dorsale-furygan-fury-d3o-orange (2).webp",
+          "assets/Product-images/Biker-equipments/dorsale-furygan-fury-d3o-orange (3).webp",
+          "assets/Product-images/Biker-equipments/dorsale-furygan-fury-d3o-orange (4).webp"
+        ],
+      "features": {
+        "Type de produit": "Dorsale",
+        "Couleur": "Orange",
+        "Type de dorsale": "Intégrée",
+        "Homologation dorsale": "Niveau 2",
+        "Garantie": "2 ans"
+      }
+    }
+  ]
+}

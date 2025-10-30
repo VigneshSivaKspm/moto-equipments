@@ -1,0 +1,436 @@
+/* ===== VARIABLES ===== */
+:root {
+  --primary-blue: #2563eb;
+  --primary-dark: #1e40af;
+  --primary-darker: #1a237e;
+  --accent-color: #3b82f6;
+  --text-light: #ffffff;
+  --text-dark: #1f2937;
+  --bg-white: #ffffff;
+  --bg-gray: #f8fafc;
+  --border-light: #e2e8f0;
+  --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+  --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+  --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+  --radius-sm: 0.375rem;
+  --radius-md: 0.5rem;
+  --radius-lg: 0.75rem;
+  --transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-fast: all 0.15s ease-in-out;
+}
+
+/* ===== RESET & BASE STYLES ===== */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  overflow-x: hidden;
+  width: 100%;
+}
+
+/* ===== HEADER STYLES ===== */
+.header {
+  width: 100%;
+  /* Use a stable, opaque-ish background to prevent flicker on scroll */
+  background: rgba(37, 99, 235, 0.98);
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1000;
+  /* Limit transitions to avoid repaints that can cause blinking */
+  transition: box-shadow 0.2s ease;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  /* Compositing hints to reduce flicker on some GPUs */
+  will-change: box-shadow;
+  backface-visibility: hidden;
+  transform: translateZ(0);
+}
+
+.header--scrolled {
+  background: rgba(37, 99, 235, 0.95);
+  box-shadow: var(--shadow-lg);
+}
+
+.header__container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.header__content {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  height: 4rem;
+}
+
+/* ===== MENU BUTTON ===== */
+.header__menu-btn {
+  background: transparent;
+  border: none;
+  border-radius: 0;
+  cursor: pointer;
+  width: auto;
+  height: auto;
+  padding: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: none;
+  outline: none;
+  box-shadow: none;
+  -webkit-appearance: none;
+  appearance: none;
+}
+
+.header__menu-btn:hover {
+  transform: none;
+}
+
+.header__menu-btn:active {
+  transform: none;
+}
+
+.header__menu-icon {
+  position: relative;
+  display: block;
+  width: 24px;
+  height: 2px;
+  background: currentColor;
+  color: var(--text-light);
+  border-radius: 1px;
+  transition: none;
+}
+
+.header__menu-icon::before,
+.header__menu-icon::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  width: 24px;
+  height: 2px;
+  background: currentColor;
+  border-radius: 1px;
+  transition: none;
+}
+
+.header__menu-icon::before {
+  top: -8px;
+}
+
+.header__menu-icon::after {
+  top: 8px;
+}
+
+/* ===== LOGO ===== */
+.header__logo {
+  text-decoration: none;
+  margin-right: auto;
+}
+
+.header__logo-text {
+  font-size: 1.5rem;
+  font-weight: 800;
+  color: var(--text-light);
+  letter-spacing: -0.025em;
+  background: linear-gradient(135deg, #ffffff 0%, #e0f2fe 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  transition: none;
+}
+
+/* Remove hover effect on logo text */
+
+/* ===== DESKTOP NAVIGATION ===== */
+.header__nav {
+  display: none;
+  gap: 2rem;
+  align-items: center;
+}
+
+.header__nav-link {
+  color: var(--text-light);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 0.95rem;
+  padding: 0.5rem 0;
+  transition: none;
+  position: relative;
+  opacity: 0.9;
+}
+
+/* Remove hover effect on nav links */
+
+.header__nav-link--active {
+  opacity: 1;
+}
+
+.header__nav-link--active::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 2px;
+  background: var(--text-light);
+  border-radius: 1px;
+}
+
+/* ===== SIDEBAR OVERLAY ===== */
+.sidebar-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100dvh;
+  background: rgba(0, 0, 0, 0.5);
+  backdrop-filter: blur(4px);
+  z-index: 1001;
+  opacity: 0;
+  visibility: hidden;
+  transition: var(--transition);
+}
+
+.sidebar-overlay--visible {
+  opacity: 1;
+  visibility: visible;
+}
+
+/* ===== SIDEBAR ===== */
+.sidebar {
+  background: var(--bg-white);
+  width: 320px;
+  max-width: 90vw;
+  height: 100%;
+  position: relative;
+  transform: translateX(-100%);
+  transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  display: flex;
+  flex-direction: column;
+  box-shadow: var(--shadow-lg);
+}
+
+.sidebar-overlay--visible .sidebar {
+  transform: translateX(0);
+}
+
+.sidebar__header {
+  padding: 1rem 1.5rem;
+  border-bottom: 1px solid var(--border-light);
+  display: flex;
+  justify-content: flex-end;
+}
+
+.sidebar__close-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  width: 2.5rem;
+  height: 2.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: var(--radius-md);
+  transition: var(--transition-fast);
+  color: var(--text-dark);
+}
+
+.sidebar__close-btn:hover {
+  background: var(--bg-gray);
+  transform: scale(1.05);
+}
+
+.sidebar__close-icon {
+  position: relative;
+  width: 1.5rem;
+  height: 1.5rem;
+}
+
+.sidebar__close-icon::before,
+.sidebar__close-icon::after {
+  content: '';
+  position: absolute;
+  width: 1.5rem;
+  height: 2px;
+  background: currentColor;
+  border-radius: 1px;
+  top: 50%;
+  left: 50%;
+}
+
+.sidebar__close-icon::before {
+  transform: translate(-50%, -50%) rotate(45deg);
+}
+
+.sidebar__close-icon::after {
+  transform: translate(-50%, -50%) rotate(-45deg);
+}
+
+/* ===== SIDEBAR CONTENT ===== */
+.sidebar__content {
+  flex: 1;
+  overflow-y: auto;
+  padding: 1rem 0;
+}
+
+.sidebar__nav {
+  list-style: none;
+  padding: 0;
+}
+
+.sidebar__nav-section {
+  padding: 1rem 1.5rem 0.5rem;
+}
+
+.sidebar__section-label {
+  font-size: 0.75rem;
+  font-weight: 700;
+  color: var(--primary-blue);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.sidebar__nav-item {
+  margin: 0;
+}
+
+.sidebar__nav-link {
+  display: flex;
+  align-items: center;
+  padding: 0.875rem 1.5rem;
+  color: var(--text-dark);
+  text-decoration: none;
+  font-weight: 500;
+  transition: var(--transition-fast);
+  border-left: 3px solid transparent;
+}
+
+.sidebar__nav-link:hover {
+  background: var(--bg-gray);
+  border-left-color: var(--primary-blue);
+  color: var(--primary-blue);
+}
+
+.sidebar__nav-link--category {
+  padding-left: 3rem;
+}
+
+.sidebar__nav-icon {
+  margin-right: 0.75rem;
+  font-size: 1.25rem;
+  width: 1.5rem;
+  text-align: center;
+}
+
+.sidebar__nav-text {
+  flex: 1;
+}
+
+/* ===== RESPONSIVE DESIGN ===== */
+
+/* Tablet and Desktop */
+@media (min-width: 768px) {
+  .header__container {
+    padding: 0 2rem;
+  }
+  
+  .header__content {
+    height: 5rem;
+  }
+  
+  .header__logo-text {
+    font-size: 1.75rem;
+  }
+  
+  .sidebar {
+    width: 380px;
+  }
+}
+
+/* Desktop */
+@media (min-width: 1024px) {
+  /* Keep hamburger visible on desktop */
+  .header__menu-btn {
+    display: flex;
+  }
+  
+  .header__nav {
+    display: flex;
+  }
+  
+  .header__logo {
+    margin-right: auto;
+  }
+}
+
+/* Large Desktop */
+@media (min-width: 1200px) {
+  .header__container {
+    padding: 0;
+  }
+}
+
+/* Mobile Landscape */
+@media (max-height: 500px) and (orientation: landscape) {
+  .sidebar__content {
+    padding-bottom: 2rem;
+  }
+  
+  .sidebar__nav-link {
+    padding: 0.5rem 1.5rem;
+  }
+}
+
+/* High-resolution displays */
+@media (min-resolution: 192dpi) {
+  .header__logo-text {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+}
+
+/* Reduced motion support */
+@media (prefers-reduced-motion: reduce) {
+  .header,
+  .header__menu-btn,
+  .header__nav-link,
+  .sidebar-overlay,
+  .sidebar,
+  .sidebar__close-btn,
+  .sidebar__nav-link {
+    transition: none;
+  }
+}
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+  .sidebar {
+    background: #1a1a1a;
+    color: #ffffff;
+  }
+  
+  .sidebar__nav-link {
+    color: #e5e5e5;
+  }
+  
+  .sidebar__nav-link:hover {
+    background: #2a2a2a;
+    color: #3b82f6;
+  }
+  
+  .sidebar__close-btn {
+    color: #e5e5e5;
+  }
+  
+  .sidebar__close-btn:hover {
+    background: #2a2a2a;
+  }
+  
+  .sidebar__header {
+    border-bottom-color: #333;
+  }
+}

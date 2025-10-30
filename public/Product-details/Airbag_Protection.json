@@ -1,0 +1,550 @@
+{
+  "airbag_vests": [
+    {
+      "name": "Gilet Airbag Furygan Evo Noir",
+      "brand": "Furygan",
+      "price": {
+        "recommended": 369.99,
+        "web": 330.20,
+        "currency": "EUR"
+      },
+        "images": [
+          "/assets/Product-images/Airbag & Protection/gilet-airbag-furygan-evo-noir.webp",
+          "/assets/Product-images/Airbag & Protection/gilet-airbag-furygan-evo-noir (1).webp",
+          "/assets/Product-images/Airbag & Protection/gilet-airbag-furygan-evo-noir (2).webp",
+          "/assets/Product-images/Airbag & Protection/gilet-airbag-furygan-evo-noir (3).webp",
+          "/assets/Product-images/Airbag & Protection/gilet-airbag-furygan-evo-noir (5).webp"
+        ],
+      "payment_plans": ["3x", "4x", "10x", "12x"],
+      "selected_payment_plan": "110,08 € puis 2 x 110,06 € (sans frais)",
+      "sizes": ["S", "L", "XL", "2XL"],
+      "technology": "In&Motion",
+      "sensor_type": "6 capteurs (3 accéléromètres, 3 gyroscopes)",
+      "inflation_time": "< 60 ms",
+      "battery_life": "30 heures",
+      "protection_areas": ["cou", "dos", "thorax", "abdomen"],
+      "subscription_required": true,
+      "colors": ["Noir"],
+      "material": "76% polyamide, 24% polyester",
+      "weight": "Non spécifié",
+      "certifications": ["CE EN 17092-6:2020"],
+      "included_accessories": ["Dorsale CE"],
+      "warranty": "2 ans",
+      "gender": "Unisexe"
+    },
+    {
+      "name": "Gilet Airbag Ixon IX-Airbag U04 Noir Gris",
+      "brand": "Ixon",
+      "price": {
+        "recommended": 369.99,
+        "web": 315.70,
+        "currency": "EUR"
+      },
+        "images": [
+          "/assets/Product-images/Airbag & Protection/gilet-airbag-ixon-ix-airbag-u04-in-motion-noir-gris.webp",
+          "/assets/Product-images/Airbag & Protection/gilet-airbag-ixon-ix-airbag-u04-in-motion-noir-gris (1).webp",
+          "/assets/Product-images/Airbag & Protection/gilet-airbag-ixon-ix-airbag-u04-in-motion-noir-gris (2).webp",
+          "/assets/Product-images/Airbag & Protection/gilet-airbag-ixon-ix-airbag-u04-in-motion-noir-gris (3).webp",
+          "/assets/Product-images/Airbag & Protection/gilet-airbag-ixon-ix-airbag-u04-in-motion-noir-gris (4).webp"
+        ],
+      "payment_plans": ["3x", "4x", "10x", "12x"],
+      "selected_payment_plan": "105,24 € puis 2 x 105,23 € (sans frais)",
+      "sizes": ["XS", "S", "M", "L", "2XL"],
+      "technology": "In&Motion",
+      "sensor_type": "6 capteurs (3 accéléromètres, 3 gyroscopes)",
+      "inflation_time": "0.055 s",
+      "battery_life": "30 heures",
+      "protection_areas": ["cou", "dos", "thorax", "abdomen"],
+      "subscription_required": true,
+      "colors": ["Noir", "Gris"],
+      "material": "Mesh",
+      "weight": "1.65 kg",
+      "certifications": ["CE EN 17092-6:2020", "EN 1621-2:2014 Niveau 1"],
+      "included_accessories": ["Dorsale CE"],
+      "warranty": "2 ans",
+      "gender": "Unisexe"
+    },
+    {
+      "name": "Gilet Airbag Shot SRG-1 Noir",
+      "brand": "Shot",
+      "price": {
+        "recommended": 399.99,
+        "web": 399.99,
+        "currency": "EUR"
+      },
+        "images": [
+          "assets/Product-images/Airbag & Protection/gilet-airbag-srg-1-inmotion-noir.jpg",
+          "assets/Product-images/Airbag & Protection/gilet-airbag-srg-1-inmotion-noir (1).jpg",
+          "assets/Product-images/Airbag & Protection/gilet-airbag-srg-1-inmotion-noir (2).jpg",
+          "assets/Product-images/Airbag & Protection/gilet-airbag-srg-1-inmotion-noir (3).jpg",
+          "assets/Product-images/Airbag & Protection/gilet-airbag-srg-1-inmotion-noir (4).jpg"
+        ],
+      "payment_plans": ["3x", "4x", "10x", "12x"],
+      "selected_payment_plan": "3 x 133,33 € (sans frais)",
+      "sizes": ["S", "M", "L", "XL", "2XL"],
+      "technology": "In&Motion",
+      "sensor_type": "6 capteurs (3 accéléromètres, 3 gyroscopes)",
+      "inflation_time": "60 ms",
+      "battery_life": "30 heures",
+      "protection_areas": ["dos", "nuque", "torse", "abdomen"],
+      "subscription_required": true,
+      "colors": ["Noir"],
+      "material": "Mesh ventilé",
+      "weight": "1.8 kg",
+      "certifications": ["FFM", "D3O Niveau 2"],
+      "included_accessories": [],
+      "warranty": "2 ans",
+      "gender": "Unisexe"
+    },
+    {
+      "name": "Gilet Airbag Alpinestars Tech-Air 5 Plasma",
+      "brand": "Alpinestars",
+      "price": {
+        "recommended": 749.95,
+        "web": 749.95,
+        "currency": "EUR"
+      },
+        "images": [
+          "assets/Product-images/Airbag & Protection/gilet-airbag-alpinestars-tech-air-5-plasma-m-noir-10.webp",
+          "assets/Product-images/Airbag & Protection/gilet-airbag-alpinestars-tech-air-5-plasma-m-noir-10 (1).webp",
+          "assets/Product-images/Airbag & Protection/gilet-airbag-alpinestars-tech-air-5-plasma-m-noir-10 (2).webp",
+          "assets/Product-images/Airbag & Protection/gilet-airbag-alpinestars-tech-air-5-plasma-m-noir-10 (3).webp",
+          "assets/Product-images/Airbag & Protection/gilet-airbag-alpinestars-tech-air-5-plasma-m-noir-10 (4).webp"
+        ],
+      "payment_plans": ["3x", "4x", "10x", "12x"],
+      "sizes": ["S", "M", "L", "XL", "2XL"],
+      "technology": "Alpinestars Tech-Air",
+      "sensor_type": "Non spécifié",
+      "inflation_time": "25-50 ms",
+      "battery_life": "30 heures",
+      "protection_areas": ["poitrine", "côtes", "dos", "épaules"],
+      "subscription_required": false,
+      "colors": ["Noir"],
+      "material": "Textile",
+      "weight": "1.53 kg",
+      "certifications": ["EN 1621-4:2013 Niveau 1", "EN 1621-2:2014 Niveau 1", "EN 17092-6:2020 Classe C"],
+      "included_accessories": ["Dorsale Plasma"],
+      "warranty": "2 ans",
+      "gender": "Unisexe"
+    },
+    {
+      "name": "Gilet Airbag Dainese Smart Air Noir",
+      "brand": "Dainese",
+      "price": {
+        "recommended": 649.00,
+        "web": 649.00,
+        "currency": "EUR"
+      },
+        "images": [
+          "assets/Product-images/Airbag & Protection/gilet-airbag-moto-dainese-smart-air-noir.jpg",
+          "assets/Product-images/Airbag & Protection/gilet-airbag-moto-dainese-smart-air-noir (1).jpg",
+          "assets/Product-images/Airbag & Protection/gilet-airbag-moto-dainese-smart-air-noir (2).jpg",
+          "assets/Product-images/Airbag & Protection/gilet-airbag-moto-dainese-smart-air-noir (3).jpg",
+          "assets/Product-images/Airbag & Protection/gilet-airbag-moto-dainese-smart-air-noir (4).jpg"
+        ],
+      "payment_plans": ["3x", "4x", "10x", "12x"],
+      "selected_payment_plan": "216,34 € puis 2 x 216,33 € (sans frais)",
+      "sizes": ["XS/S", "M/L", "XL-2XL"],
+      "technology": "D-air Road",
+      "sensor_type": "Accéléromètres et gyroscopes",
+      "inflation_time": "45 ms",
+      "battery_life": "12 heures",
+      "protection_areas": ["thorax", "dos"],
+      "subscription_required": false,
+      "colors": ["Noir"],
+      "material": "Textile léger et respirant",
+      "weight": "1.5 kg",
+      "certifications": ["EN 1621-4 L1", "EN 1621-4 L2"],
+      "included_accessories": [],
+      "warranty": "2 ans",
+      "gender": "Unisexe"
+    },
+    {
+      "name": "Gilet Airbag Alpinestars Tech-Air 7X Noir Rouge",
+      "brand": "Alpinestars",
+      "price": {
+        "recommended": 949.95,
+        "web": 949.95,
+        "currency": "EUR"
+      },
+        "images": [
+          "assets/Product-images/Airbag & Protection/gilet-airbag-alpinestars-tech-air-7x-noir-rouge.jpg",
+          "assets/Product-images/Airbag & Protection/gilet-airbag-alpinestars-tech-air-7x-noir-rouge (1).jpg",
+          "assets/Product-images/Airbag & Protection/gilet-airbag-alpinestars-tech-air-7x-noir-rouge (2).jpg",
+          "assets/Product-images/Airbag & Protection/gilet-airbag-alpinestars-tech-air-7x-noir-rouge (3).jpg",
+          "assets/Product-images/Airbag & Protection/gilet-airbag-alpinestars-tech-air-7x-noir-rouge (4).jpg",
+          "assets/Product-images/Airbag & Protection/gilet-airbag-alpinestars-tech-air-7x-noir-rouge (5).jpg",
+          "assets/Product-images/Airbag & Protection/gilet-airbag-alpinestars-tech-air-7x-noir-rouge (6).jpg"
+        ],
+      "payment_plans": ["3x", "4x", "10x", "12x"],
+      "sizes": ["S", "M", "L", "XL"],
+      "technology": "Alpinestars Tech-Air",
+      "sensor_type": "12 capteurs",
+      "inflation_time": "44 ms",
+      "battery_life": "20 heures",
+      "protection_areas": ["épaules", "poitrine", "dos", "coccyx"],
+      "subscription_required": false,
+      "colors": ["Noir", "Rouge"],
+      "material": "Textile",
+      "weight": "Non spécifié",
+      "certifications": ["EN 1621-4:2018 Niveau 2", "FIM"],
+      "included_accessories": [],
+      "warranty": "2 ans",
+      "gender": "Homme"
+    },
+    {
+      "name": "Gilet Airbag Alpinestars Tech-Air 5 Gris",
+      "brand": "Alpinestars",
+      "price": {
+        "recommended": 699.95,
+        "web": 559.96,
+        "currency": "EUR"
+      },
+        "images": [
+          "assets/Product-images/Airbag & Protection/gilet-airbag-alpinestars-tech-air-5-gris.webp",
+          "assets/Product-images/Airbag & Protection/gilet-airbag-alpinestars-tech-air-5-gris (1).webp",
+          "assets/Product-images/Airbag & Protection/gilet-airbag-alpinestars-tech-air-5-gris (2).webp"
+        ],
+      "payment_plans": ["3x", "4x", "10x", "12x"],
+      "selected_payment_plan": "154,38 € puis 3 x 139,99 €",
+      "sizes": ["2XL"],
+      "technology": "Alpinestars Tech-Air",
+      "sensor_type": "6 capteurs (3 gyroscopes, 3 accéléromètres)",
+      "inflation_time": "20-40 ms",
+      "battery_life": "30 heures",
+      "protection_areas": ["épaules", "torse", "côtes", "dos"],
+      "subscription_required": false,
+      "colors": ["Gris"],
+      "material": "79% Polyester, 18% Polyamide, 3% autre",
+      "weight": "2 kg",
+      "certifications": ["EN 1621-4 Niveau 2"],
+      "included_accessories": [],
+      "warranty": "2 ans",
+      "gender": "Unisexe"
+    },
+    {
+      "name": "Gilet Airbag Femme Alpinestars Stella Tech-Air 3 Noir",
+      "brand": "Alpinestars",
+      "price": {
+        "recommended": 549.95,
+        "web": 351.97,
+        "currency": "EUR"
+      },
+        "images": [
+          "assets/Product-images/Airbag & Protection/gilet-airbag-femme-alpinestars-stella-tech-air-3-noir.webp",
+          "assets/Product-images/Airbag & Protection/gilet-airbag-femme-alpinestars-stella-tech-air-3-noir (1).webp",
+          "assets/Product-images/Airbag & Protection/gilet-airbag-femme-alpinestars-stella-tech-air-3-noir (1).jpg",
+          "assets/Product-images/Airbag & Protection/gilet-airbag-femme-alpinestars-stella-tech-air-3-noir (2).jpg"
+        ],
+      "payment_plans": ["3x", "4x", "10x", "12x"],
+      "selected_payment_plan": "117,33 € puis 2 x 117,32 € (sans frais)",
+      "sizes": ["XS", "S", "L"],
+      "technology": "Alpinestars Tech-Air",
+      "sensor_type": "6 capteurs (3 accéléromètres, 3 gyroscopes)",
+      "inflation_time": "50 ms",
+      "battery_life": "40 heures",
+      "protection_areas": ["thorax", "dos"],
+      "subscription_required": false,
+      "colors": ["Noir"],
+      "material": "Textile résistant à l'eau",
+      "weight": "Non spécifié",
+      "certifications": ["EN1621-4:2013", "17092-6 Classe C"],
+      "included_accessories": [],
+      "warranty": "2 ans",
+      "gender": "Femme"
+    },
+    {
+      "name": "Gilet Airbag IXS Ipro 1.0 Noir",
+      "brand": "IXS",
+      "price": {
+        "recommended": 399.95,
+        "web": 399.95,
+        "currency": "EUR"
+      },
+        "images": [
+          "assets/Product-images/Airbag & Protection/gilet-airbag-ixs-ipro-10-noir.jpg",
+          "assets/Product-images/Airbag & Protection/gilet-airbag-ixs-ipro-10-noir (1).jpg",
+          "assets/Product-images/Airbag & Protection/gilet-airbag-ixs-ipro-10-noir (2).jpg",
+          "assets/Product-images/Airbag & Protection/gilet-airbag-ixs-ipro-10-noir (3).jpg",
+          "assets/Product-images/Airbag & Protection/gilet-airbag-ixs-ipro-10-noir (4).jpg"
+        ],
+      "payment_plans": ["3x", "4x", "10x", "12x"],
+      "selected_payment_plan": "133,33 € puis 2 x 133,31 € (sans frais)",
+      "sizes": ["S/M", "L/XL", "2XL/3XL"],
+      "technology": "In&Motion",
+      "sensor_type": "6 capteurs (3 accéléromètres, 3 gyroscopes)",
+      "inflation_time": "< 60 ms",
+      "battery_life": "30 heures",
+      "protection_areas": ["abdomen", "thorax", "dos", "cou"],
+      "subscription_required": true,
+      "colors": ["Noir"],
+      "material": "Polyamide/Polyester",
+      "weight": "1.6 kg",
+      "certifications": ["prEN 17092-6", "EN-1621-2:2014 Niveau 1"],
+      "included_accessories": [],
+      "warranty": "2 ans",
+      "gender": "Homme"
+    },
+    {
+      "name": "Gilet Airbag Ixon IX-Airbag U05 Noir Orange",
+      "brand": "Ixon",
+      "price": {
+        "recommended": 549.99,
+        "web": 535.30,
+        "discounted": 455.01,
+        "currency": "EUR"
+      },
+        "images": [
+          "assets/Product-images/Airbag & Protection/gilet-airbag-ixon-ix-airbag-u05-in-motion-noir-orange.jpg",
+          "assets/Product-images/Airbag & Protection/gilet-airbag-ixon-ix-airbag-u05-in-motion-noir-orange (1).jpg",
+          "assets/Product-images/Airbag & Protection/gilet-airbag-ixon-ix-airbag-u05-in-motion-noir-orange (2).jpg",
+          "assets/Product-images/Airbag & Protection/gilet-airbag-ixon-ix-airbag-u05-in-motion-noir-orange (3).jpg",
+          "assets/Product-images/Airbag & Protection/gilet-airbag-ixon-ix-airbag-u05-in-motion-noir-orange (4).jpg"
+        ],
+      "payment_plans": ["3x", "4x", "10x", "12x"],
+      "selected_payment_plan": "178,44 € puis 2 x 178,43 € (sans frais)",
+      "sizes": ["--"],
+      "technology": "In&Motion",
+      "sensor_type": "6 capteurs (3 accéléromètres, 3 gyroscopes)",
+      "inflation_time": "0.055 s",
+      "battery_life": "30 heures",
+      "protection_areas": ["cou", "épaules", "dos", "thorax", "abdomen"],
+      "subscription_required": true,
+      "colors": ["Noir", "Orange"],
+      "material": "Mesh",
+      "weight": "Non spécifié",
+      "certifications": ["CE EN 17092-6:2020", "EN 1621-2:2014 Niveau 1", "FIM"],
+      "included_accessories": ["Kit IX-CONNECT"],
+      "warranty": "2 ans",
+      "gender": "Unisexe"
+    },
+    {
+      "name": "Gilet Airbag Helite E-Turtle 2 Noir",
+      "brand": "Helite",
+      "price": {
+        "recommended": 689.00,
+        "web": 689.00,
+        "currency": "EUR"
+      },
+        "images": [
+          "assets/Product-images/Airbag & Protection/gilet-airbag-helite-e-turtle-2-noir.webp",
+          "assets/Product-images/Airbag & Protection/gilet-airbag-helite-e-turtle-2-noir (1).webp"
+        ],
+      "payment_plans": ["3x", "4x", "10x", "12x"],
+      "sizes": ["S", "M", "L", "XL"],
+      "technology": "Helite",
+      "sensor_type": "Multi-capteurs",
+      "inflation_time": "62 ms",
+      "battery_life": "25 heures",
+      "protection_areas": ["cou", "dos", "thorax", "abdomen", "hanches"],
+      "subscription_required": false,
+      "colors": ["Noir"],
+      "material": "100% polyester, airbag 100% polyuréthane",
+      "weight": "Non spécifié",
+      "certifications": ["CE"],
+      "included_accessories": ["Dorsale Niveau 2"],
+      "warranty": "4 ans",
+      "gender": "Unisexe"
+    },
+    {
+      "name": "Gilet Airbag Bering C-Protect Air Evo Noir",
+      "brand": "Bering",
+      "price": {
+        "recommended": 349.99,
+        "web": 349.99,
+        "currency": "EUR"
+      },
+        "images": [
+          "assets/Product-images/Airbag & Protection/gilet-airbag-bering-c-protect-air-evo-noir.jpg",
+          "assets/Product-images/Airbag & Protection/gilet-airbag-bering-c-protect-air-evo-noir (1).jpg",
+          "assets/Product-images/Airbag & Protection/gilet-airbag-bering-c-protect-air-evo-noir (2).jpg"
+        ],
+      "payment_plans": ["3x", "4x", "10x", "12x"],
+      "selected_payment_plan": "116,67 € puis 2 x 116,66 € (sans frais)",
+      "sizes": ["XS/S", "M/L", "XL/2XL", "3XL/4XL"],
+      "technology": "Filaire",
+      "sensor_type": "Câble de déclenchement",
+      "inflation_time": "Non spécifié",
+      "battery_life": "Non applicable",
+      "protection_areas": ["Non spécifié"],
+      "subscription_required": false,
+      "colors": ["Noir"],
+      "material": "Softshell et Mesh 3D",
+      "weight": "1.014 kg",
+      "certifications": ["EN17092-6 Classe C-O"],
+      "included_accessories": ["Anneau d'attache"],
+      "warranty": "2 ans",
+      "gender": "Unisexe"
+    },
+    {
+      "name": "Gilet Airbag Klim AI-1 UE In&Motion Noir",
+      "brand": "Klim",
+      "price": {
+        "recommended": 320.00,
+        "web": 304.00,
+        "currency": "EUR"
+      },
+        "images": [
+          "assets/Product-images/Airbag & Protection/gilet-airbag-klim-ai-1-ue-inmotion-noir.webp",
+          "assets/Product-images/Airbag & Protection/gilet-airbag-klim-ai-1-ue-inmotion-noir (1).webp",
+          "assets/Product-images/Airbag & Protection/gilet-airbag-klim-ai-1-ue-inmotion-noir (2).webp",
+          "assets/Product-images/Airbag & Protection/gilet-airbag-klim-ai-1-ue-inmotion-noir (3).webp",
+          "assets/Product-images/Airbag & Protection/gilet-airbag-klim-ai-1-ue-inmotion-noir (4).webp",
+          "assets/Product-images/Airbag & Protection/gilet-airbag-klim-ai-1-ue-inmotion-noir (5).webp"
+        ],
+      "payment_plans": ["3x", "4x", "10x", "12x"],
+      "selected_payment_plan": "101,34 € puis 2 x 101,33 € (sans frais)",
+      "sizes": ["S", "M", "L", "XL"],
+      "technology": "In&Motion",
+      "sensor_type": "6 capteurs (3 accéléromètres, 3 gyroscopes)",
+      "inflation_time": "< 60 ms",
+      "battery_life": "25 heures",
+      "protection_areas": ["cervicales", "colonne vertébrale", "thorax", "abdomen"],
+      "subscription_required": true,
+      "colors": ["Noir"],
+      "material": "Textile",
+      "weight": "1.5 kg",
+      "certifications": ["CE EN 17092-6:2020", "EN 1621-2:2014 Niveau 1"],
+      "included_accessories": [],
+      "warranty": "2 ans",
+      "gender": "Unisexe"
+    },
+    {
+      "name": "Gilet Airbag Tucano Urbano Airscud Flex Noir",
+      "brand": "Tucano Urbano",
+      "price": {
+        "recommended": 299.99,
+        "web": 299.99,
+        "currency": "EUR"
+      },
+        "images": [
+          "assets/Product-images/Airbag & Protection/gilet-airbag-tucano-urbano-airscud-flex-noir.webp",
+          "assets/Product-images/Airbag & Protection/gilet-airbag-tucano-urbano-airscud-flex-noir.jpg",
+          "assets/Product-images/Airbag & Protection/gilet-airbag-tucano-urbano-airscud-flex-noir (1).jpg",
+          "assets/Product-images/Airbag & Protection/gilet-airbag-tucano-urbano-airscud-flex-noir (2).jpg",
+          "assets/Product-images/Airbag & Protection/gilet-airbag-tucano-urbano-airscud-flex-noir (3).jpg"
+        ],
+      "payment_plans": ["3x", "4x", "10x", "12x"],
+      "selected_payment_plan": "100,01 € puis 2 x 99,99 € (sans frais)",
+      "sizes": ["M", "L", "XL", "2XL", "3XL"],
+      "technology": "In&Motion",
+      "sensor_type": "7 capteurs (3 accéléromètres, 3 gyroscopes, 1 GPS)",
+      "inflation_time": "< 60 ms",
+      "battery_life": "30 heures",
+      "protection_areas": ["thorax", "abdomen", "cou", "colonne vertébrale"],
+      "subscription_required": true,
+      "colors": ["Noir"],
+      "material": "Polyester, mesh 3D",
+      "weight": "2 kg",
+      "certifications": ["CE EN17092-6 Classe C", "EN 1621-2 Niveau 1"],
+      "included_accessories": [],
+      "warranty": "2 ans",
+      "gender": "Unisexe"
+    }
+  ],
+  "back_protectors": [
+    {
+      "name": "Dorsale Furygan Full Back D3O Evo Orange",
+      "brand": "Furygan",
+      "price": 39.90,
+      "currency": "EUR",
+      "sizes": ["6", "7", "8", "9"],
+      "technology": "D3O",
+      "certification": "CE EN 1621-2 Niveau 2",
+      "colors": ["Orange"],
+      "warranty": "2 ans",
+      "gender": "Unisexe"
+        ,"images": [
+          "assets/Product-images/Airbag & Protection/dorsale-furygan-d3o-full-back-orange.webp",
+          "assets/Product-images/Airbag & Protection/dorsale-furygan-d3o-full-back-orange (1).webp",
+          "assets/Product-images/Airbag & Protection/dorsale-furygan-d3o-full-back-orange (2).webp",
+          "assets/Product-images/Airbag & Protection/dorsale-furygan-d3o-full-back-orange.jpg",
+          "assets/Product-images/Airbag & Protection/dorsale-furygan-d3o-full-back-orange (1).jpg"
+        ]
+    },
+    {
+      "name": "Dorsale Furygan D3O Full Back Orange",
+      "brand": "Furygan",
+      "price": 39.90,
+      "currency": "EUR",
+      "sizes": [],
+      "technology": "D3O",
+      "certification": "CE Niveau 2",
+      "colors": ["Orange"],
+      "warranty": "2 ans",
+      "gender": "Unisexe"
+        ,"images": [
+          "assets/Product-images/Airbag & Protection/dorsale-furygan-fury-d3o-orange.webp",
+          "assets/Product-images/Airbag & Protection/dorsale-furygan-fury-d3o-orange (1).webp",
+          "assets/Product-images/Airbag & Protection/dorsale-furygan-fury-d3o-orange (2).webp",
+          "assets/Product-images/Airbag & Protection/dorsale-furygan-fury-d3o-orange (3).webp",
+          "assets/Product-images/Airbag & Protection/dorsale-furygan-fury-d3o-orange (4).webp"
+        ]
+    },
+    {
+      "name": "Dorsale REV'IT Seesoft RV Bleu",
+      "brand": "REV'IT",
+      "price": 43.99,
+      "currency": "EUR",
+      "sizes": ["3", "4", "5", "6"],
+      "technology": "SEESOFT",
+      "certification": "EN 1621-2:2003 Niveau 2",
+      "colors": ["Bleu"],
+      "warranty": "2 ans",
+      "gender": "Unisexe"
+        ,"images": [
+          "assets/Product-images/Airbag & Protection/dorsale-revit-seesoft-rv-bleu.webp"
+        ]
+    }
+  ],
+  "other_products": [
+    {
+      "name": "Ceinture Maintien Moto Passager Ely'Tek Noir",
+      "brand": "Ely'Tek",
+      "price": 29.90,
+      "currency": "EUR",
+      "type": "Ceinture de maintien",
+      "colors": ["Noir"],
+      "max_waist": "120cm"
+        ,"images": [
+          "assets/Product-images/Airbag & Protection/ceinture-maintien-moto-passager-elytek-noir.webp"
+        ]
+    },
+    {
+      "name": "Pantalon Airbag CX Air Dynamics Easyrider Noir",
+      "brand": "CX Air Dynamics",
+      "price": {
+        "recommended": 549.00,
+        "web": 549.00,
+        "discounted": 466.65,
+        "currency": "EUR"
+      },
+        "images": [
+          "assets/Product-images/Airbag & Protection/pantalon-airbag-air-dynamics-cx-easyrider-noir.webp",
+          "assets/Product-images/Airbag & Protection/pantalon-airbag-air-dynamics-cx-easyrider-noir (1).webp",
+          "assets/Product-images/Airbag & Protection/pantalon-airbag-air-dynamics-cx-easyrider-noir (2).webp",
+          "assets/Product-images/Airbag & Protection/pantalon-airbag-air-dynamics-cx-easyrider-noir (3).webp",
+          "assets/Product-images/Airbag & Protection/pantalon-airbag-air-dynamics-cx-easyrider-noir (4).webp"
+        ],
+      "payment_plans": ["3x", "4x", "10x", "12x"],
+      "selected_payment_plan": "3 x 183,00 € (sans frais)",
+      "sizes": ["S", "M", "L", "XL"],
+      "technology": "Filaire",
+      "inflation_time": "97 ms",
+      "protection_areas": ["hanches", "coccyx", "fémur", "genoux", "tibias"],
+      "subscription_required": false,
+      "colors": ["Noir"],
+      "material": "Cordura",
+      "certifications": ["SRA 3 étoiles"],
+      "included_accessories": ["Protections CE Genoux", "Protections CE Hanches"],
+      "warranty": "2 ans",
+      "gender": "Unisexe"
+    }
+  ],
+  "customer_service": {
+    "phone": "04 699 699 16",
+    "hours": "Lundi au vendredi 9h-18h30",
+    "return_policy": "30 jours retour gratuit",
+    "in_store_pricing": "Prix internet disponible en magasin"
+  }
+}
